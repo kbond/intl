@@ -19,6 +19,18 @@ http://www.localeplanet.com/ API and is contained in `resources/locales.json`.
 
 // Provides information for a locale
 \Zenstruck\Intl\Locale::getLocale('en_US');
+
+// Provides only locales with both language and region set (ie "en_US", not "en")
+\Zenstruck\Intl\Locale::getRegions()
+
+// Provides the regions as an assoc. array with the code as the key and name as the value
+\Zenstruck\Intl\Locale::getRegionNames()
+
+// Provides language-only locales (ie "en", not "en_US")
+\Zenstruck\Intl\Locale::getLanguages()
+
+// Provides the languages as an assoc. array with the code as the key and name as the value
+\Zenstruck\Intl\Locale::getLanguagenames()
 ```
 
 ## Build JSON resource

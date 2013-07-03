@@ -36,6 +36,64 @@ class LocaleTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals($name, $locale['name']);
     }
 
+    /**
+     * @dataProvider localeProvider
+     */
+    public function testGetRegions($code)
+    {
+        $regions = \Zenstruck\Intl\Locale::getRegions();
+
+        if (strlen($code) === 2) {
+            $this->assertArrayNotHasKey($code, $regions);
+        } else {
+            $this->assertArrayHasKey($code, $regions);
+        }
+    }
+
+    /**
+     * @dataProvider localeProvider
+     */
+    public function testGetRegionNames($code, $name)
+    {
+        $names = \Zenstruck\Intl\Locale::getRegionNames();
+
+        if (strlen($code) === 2) {
+            $this->assertArrayNotHasKey($code, $names);
+        } else {
+            $this->assertArrayHasKey($code, $names);
+            $this->assertEquals($name, $names[$code]);
+        }
+    }
+
+    /**
+     * @dataProvider localeProvider
+     */
+    public function testGetLanguages($code)
+    {
+        $regions = \Zenstruck\Intl\Locale::getLanguages();
+
+        if (strlen($code) === 2) {
+            $this->assertArrayHasKey($code, $regions);
+        } else {
+            $this->assertArrayNotHasKey($code, $regions);
+        }
+    }
+
+    /**
+     * @dataProvider localeProvider
+     */
+    public function testGetLanguageNames($code, $name)
+    {
+        $names = \Zenstruck\Intl\Locale::getLanguageNames();
+
+        if (strlen($code) === 2) {
+            $this->assertArrayHasKey($code, $names);
+            $this->assertEquals($name, $names[$code]);
+        } else {
+            $this->assertArrayNotHasKey($code, $names);
+        }
+    }
+
     public function localeProvider()
     {
         return array(

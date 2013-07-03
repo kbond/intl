@@ -37,6 +37,60 @@ class Locale
     }
 
     /**
+     * Provides only locales with both language and region set (ie "en_US", not "en")
+     *
+     * @return array
+     */
+    public static function getRegions()
+    {
+        return array_filter(Locale::getAvailableLocales(), function($value) {
+                return $value['country'] !== '';
+            }
+        );
+    }
+
+    /**
+     * Provides the regions as an assoc. array with the code as the key and name as the value
+     *
+     * @return array
+     */
+    public static function getRegionNames()
+    {
+        return array_map(function($value) {
+                return $value['name'];
+            },
+            self::getRegions()
+        );
+    }
+
+    /**
+     * Provides language-only locales (ie "en", not "en_US")
+     *
+     * @return array
+     */
+    public static function getLanguages()
+    {
+        return array_filter(Locale::getAvailableLocales(), function($value) {
+                return $value['country'] === '';
+            }
+        );
+    }
+
+    /**
+     * Provides the languages as an assoc. array with the code as the key and name as the value
+     *
+     * @return array
+     */
+    public static function getLanguageNames()
+    {
+        return array_map(function($value) {
+                return $value['name'];
+            },
+            self::getLanguages()
+        );
+    }
+
+    /**
      * Provides information for a locale
      *
      * @param string $locale
