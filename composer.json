@@ -1,0 +1,22 @@
+{
+    "name": "zenstruck/intl",
+    "description": "Useful helpers for easing internationalization",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Bond",
+            "email": "kevinbond@gmail.com",
+            "homepage": "https://zenstruck.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {
+        "guzzle/http": "*"
+    },
+    "autoload": {
+        "psr-0": { "Zenstruck\\Intl": "src/" }
+    }
+}
