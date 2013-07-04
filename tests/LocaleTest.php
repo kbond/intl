@@ -39,6 +39,18 @@ class LocaleTest extends \PHPUnit_Framework_TestCase
     /**
      * @dataProvider localeProvider
      */
+    public function testGetDefaultLocale($code, $name)
+    {
+        \Locale::setDefault($code);
+
+        $locale = \Zenstruck\Intl\Locale::getLocale();
+
+        $this->assertEquals($name, $locale['name']);
+    }
+
+    /**
+     * @dataProvider localeProvider
+     */
     public function testGetLocalsWithRegions($code)
     {
         $regions = \Zenstruck\Intl\Locale::getLocalesWithRegions();
@@ -94,15 +106,31 @@ class LocaleTest extends \PHPUnit_Framework_TestCase
         }
     }
 
+    /**
+     * @dataProvider localeProvider
+     */
+    public function testGetCurrency($code, $name, $currency)
+    {
+        $this->assertEquals($currency, \Zenstruck\Intl\Locale::getCurrency($code));
+    }
+
+    /**
+     * @dataProvider localeProvider
+     */
+    public function testGetCurrencySymbol($code, $name, $currency, $symbol)
+    {
+        $this->assertEquals($symbol, \Zenstruck\Intl\Locale::getCurrencySymbol($code));
+    }
+
     public function localeProvider()
     {
         return array(
-            array('en', 'English'),
-            array('en_GB', 'English (United Kingdom)'),
-            array('fr_CA', 'français (Canada)'),
-            array('fr', 'français'),
-            array('fr_FR', 'français (France)'),
-            array('ja_JP', '日本語(日本)')
+            array('en', 'English', '', '¤'),
+            array('en_GB', 'English (United Kingdom)', 'GBP', '£'),
+            array('fr_CA', 'français (Canada)', 'CAD', '$'),
+            array('fr', 'français', '', '¤'),
+            array('fr_FR', 'français (France)', 'EUR', '€'),
+            array('ja_JP', '日本語(日本)', 'JPY', '￥')
         );
     }
 }

@@ -7,6 +7,8 @@ namespace Zenstruck\Intl;
  */
 class Locale
 {
+    const DEFAULT_LOCALE = 'en_US';
+
     protected static $locales = null;
 
     /**
@@ -91,22 +93,63 @@ class Locale
     }
 
     /**
-     * Provides information for a locale
+     * Provides information for either the provided or default locale
      *
-     * @param string $locale
+     * @param string|null $locale
      *
      * @return array
      *
      * @throws \InvalidArgumentException
      */
-    public static function getLocale($locale)
+    public static function getLocale($locale = null)
     {
         $locales = self::getAvailableLocales();
 
+        if (!$locale) {
+            $locale = self::getDefaultLocale();
+        }
+
         if (!isset($locales[$locale])) {
-            throw new \InvalidArgumentException(sprintf('The locale "%s" is not available', $locale));
+            throw new \InvalidArgumentException(sprintf('The locale "%s" is not available.', $locale));
         }
 
         return $locales[$locale];
+    }
+
+    /**
+     * Provide the 3 digit ISO 4217 currency code for either the provided or default locale
+     *
+     * @param string|null $locale
+     *
+     * @return mixed
+     */
+    public static function getCurrency($locale = null)
+    {
+        $locale = self::getLocale($locale);
+
+        return $locale['currency'];
+    }
+
+    /**
+     * Provide the currency symbol for either the provided or default locale
+     *
+     * @param string|null $locale
+     *
+     * @return mixed
+     */
+    public static function getCurrencySymbol($locale = null)
+    {
+        $locale = self::getLocale($locale);
+
+        return $locale['currency_symbol'];
+    }
+
+    protected static function getDefaultLocale()
+    {
+        if (!class_exists('\Locale')) {
+            return static::DEFAULT_LOCALE;
+        }
+
+        return \Locale::getDefault();
     }
 }

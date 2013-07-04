@@ -18,6 +18,10 @@ foreach ($locales as $locale) {
     $response = Guzzle::get(sprintf($infoUrl, $locale));
     $info = json_decode($response->getBody(true), true);
 
+    $formatter = new \NumberFormatter($locale, \NumberFormatter::CURRENCY);
+    $info['currency'] = $formatter->getTextAttribute(\NumberFormatter::CURRENCY_CODE);
+    $info['currency_symbol'] = $formatter->getSymbol(\NumberFormatter::CURRENCY_SYMBOL);
+
     $ret[str_replace('-', '_', $locale)] = $info;
 }
 
