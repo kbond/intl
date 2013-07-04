@@ -6,7 +6,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 
 $listUrl = 'http://www.localeplanet.com/api/codelist.json';
 $infoUrl = 'http://www.localeplanet.com/api/%s/info.json';
-$buildJson = __DIR__ . '/../resources/locales.json';
+$resourceDir = __DIR__ . '/../resources/';
 
 $ret = array();
 
@@ -21,4 +21,10 @@ foreach ($locales as $locale) {
     $ret[str_replace('-', '_', $locale)] = $info;
 }
 
-file_put_contents($buildJson, json_encode($ret));
+// create locals.json file
+file_put_contents($resourceDir . 'locales.json', json_encode($ret));
+
+// create locals.php file
+$php = sprintf("<?php return %s;%s", var_export($ret, true), PHP_EOL);
+
+file_put_contents($resourceDir . 'locales.php', $php);

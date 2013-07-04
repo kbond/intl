@@ -5,7 +5,7 @@ This library contains useful helpers for easing internationalization in a PHP ap
 ## Locale
 
 This component provides a complete list (including meta information) for all locales.  The list is built from the
-http://www.localeplanet.com/ API and is contained in `resources/locales.json`.
+http://www.localeplanet.com/ API and is contained in `resources/locales.php`.
 
 ### Usage
 
@@ -21,10 +21,10 @@ http://www.localeplanet.com/ API and is contained in `resources/locales.json`.
 \Zenstruck\Intl\Locale::getLocale('en_US');
 
 // Provides only locales with both language and region set (ie "en_US", not "en")
-\Zenstruck\Intl\Locale::getRegions()
+\Zenstruck\Intl\Locale::getLocalesWithRegions()
 
 // Provides the regions as an assoc. array with the code as the key and name as the value
-\Zenstruck\Intl\Locale::getRegionNames()
+\Zenstruck\Intl\Locale::getLocalesWithRegionNames()
 
 // Provides language-only locales (ie "en", not "en_US")
 \Zenstruck\Intl\Locale::getLanguages()
@@ -33,7 +33,7 @@ http://www.localeplanet.com/ API and is contained in `resources/locales.json`.
 \Zenstruck\Intl\Locale::getLanguagenames()
 ```
 
-## Build JSON resource
+## Build JSON/PHP resources
 
 ```
 php bin/build.php

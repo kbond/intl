@@ -39,9 +39,9 @@ class LocaleTest extends \PHPUnit_Framework_TestCase
     /**
      * @dataProvider localeProvider
      */
-    public function testGetRegions($code)
+    public function testGetLocalsWithRegions($code)
     {
-        $regions = \Zenstruck\Intl\Locale::getRegions();
+        $regions = \Zenstruck\Intl\Locale::getLocalesWithRegions();
 
         if (strlen($code) === 2) {
             $this->assertArrayNotHasKey($code, $regions);
@@ -53,9 +53,9 @@ class LocaleTest extends \PHPUnit_Framework_TestCase
     /**
      * @dataProvider localeProvider
      */
-    public function testGetRegionNames($code, $name)
+    public function testGetLocalesWithRegionNames($code, $name)
     {
-        $names = \Zenstruck\Intl\Locale::getRegionNames();
+        $names = \Zenstruck\Intl\Locale::getLocalesWithRegionNames();
 
         if (strlen($code) === 2) {
             $this->assertArrayNotHasKey($code, $names);

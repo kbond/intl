@@ -20,7 +20,7 @@ class Locale
             return self::$locales;
         }
 
-        return self::$locales = json_decode(file_get_contents(__DIR__ . '/../../../resources/locales.json'), true);
+        return self::$locales = require_once(__DIR__ . '/../../../resources/locales.php');
     }
 
     /**
@@ -41,7 +41,7 @@ class Locale
      *
      * @return array
      */
-    public static function getRegions()
+    public static function getLocalesWithRegions()
     {
         return array_filter(Locale::getAvailableLocales(), function($value) {
                 return $value['country'] !== '';
@@ -54,12 +54,12 @@ class Locale
      *
      * @return array
      */
-    public static function getRegionNames()
+    public static function getLocalesWithRegionNames()
     {
         return array_map(function($value) {
                 return $value['name'];
             },
-            self::getRegions()
+            self::getLocalesWithRegions()
         );
     }
 
