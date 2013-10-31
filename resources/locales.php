@@ -13,8 +13,6 @@
     'tag_original' => 'af',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'af_NA' => 
   array (
@@ -30,8 +28,6 @@
     'tag_original' => 'af-NA',
     'currency' => 'NAD',
     'currency_symbol' => '$',
-    'decimal_point' => '$ ',
-    'thousands_sep' => '',
   ),
   'af_ZA' => 
   array (
@@ -47,8 +43,6 @@
     'tag_original' => 'af-ZA',
     'currency' => 'ZAR',
     'currency_symbol' => 'R',
-    'decimal_point' => 'R',
-    'thousands_sep' => '',
   ),
   'agq' => 
   array (
@@ -64,8 +58,6 @@
     'tag_original' => 'agq',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'agq_CM' => 
   array (
@@ -81,8 +73,6 @@
     'tag_original' => 'agq-CM',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => 'FCFA',
   ),
   'ak' => 
   array (
@@ -98,8 +88,6 @@
     'tag_original' => 'ak',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ak_GH' => 
   array (
@@ -114,9 +102,7 @@
     'tag_ietf' => 'ak-GH',
     'tag_original' => 'ak-GH',
     'currency' => 'GHS',
-    'currency_symbol' => 'GHS',
-    'decimal_point' => 'GHS',
-    'thousands_sep' => '',
+    'currency_symbol' => 'GH₵',
   ),
   'am' => 
   array (
@@ -132,8 +118,6 @@
     'tag_original' => 'am',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'am_ET' => 
   array (
@@ -149,8 +133,6 @@
     'tag_original' => 'am-ET',
     'currency' => 'ETB',
     'currency_symbol' => 'ብር',
-    'decimal_point' => 'ብር',
-    'thousands_sep' => '',
   ),
   'ar' => 
   array (
@@ -166,8 +148,6 @@
     'tag_original' => 'ar',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'ar_001' => 
   array (
@@ -183,8 +163,6 @@
     'tag_original' => 'ar-001',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'ar_AE' => 
   array (
@@ -200,8 +178,6 @@
     'tag_original' => 'ar-AE',
     'currency' => 'AED',
     'currency_symbol' => 'د.إ.‏',
-    'decimal_point' => 'د.إ.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_BH' => 
   array (
@@ -217,8 +193,6 @@
     'tag_original' => 'ar-BH',
     'currency' => 'BHD',
     'currency_symbol' => 'د.ب.‏',
-    'decimal_point' => 'د.ب.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_DZ' => 
   array (
@@ -234,8 +208,6 @@
     'tag_original' => 'ar-DZ',
     'currency' => 'DZD',
     'currency_symbol' => 'د.ج.‏',
-    'decimal_point' => 'د.ج.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_EG' => 
   array (
@@ -251,8 +223,6 @@
     'tag_original' => 'ar-EG',
     'currency' => 'EGP',
     'currency_symbol' => 'ج.م.‏',
-    'decimal_point' => 'ج.م.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_IQ' => 
   array (
@@ -268,8 +238,6 @@
     'tag_original' => 'ar-IQ',
     'currency' => 'IQD',
     'currency_symbol' => 'د.ع.‏',
-    'decimal_point' => 'د.ع.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_JO' => 
   array (
@@ -285,8 +253,6 @@
     'tag_original' => 'ar-JO',
     'currency' => 'JOD',
     'currency_symbol' => 'د.أ.‏',
-    'decimal_point' => 'د.أ.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_KW' => 
   array (
@@ -302,8 +268,6 @@
     'tag_original' => 'ar-KW',
     'currency' => 'KWD',
     'currency_symbol' => 'د.ك.‏',
-    'decimal_point' => 'د.ك.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_LB' => 
   array (
@@ -319,8 +283,6 @@
     'tag_original' => 'ar-LB',
     'currency' => 'LBP',
     'currency_symbol' => 'ل.ل.‏',
-    'decimal_point' => 'ل.ل.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_LY' => 
   array (
@@ -336,8 +298,6 @@
     'tag_original' => 'ar-LY',
     'currency' => 'LYD',
     'currency_symbol' => 'د.ل.‏',
-    'decimal_point' => 'د.ل.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_MA' => 
   array (
@@ -353,8 +313,6 @@
     'tag_original' => 'ar-MA',
     'currency' => 'MAD',
     'currency_symbol' => 'د.م.‏',
-    'decimal_point' => 'د.م.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_OM' => 
   array (
@@ -370,8 +328,6 @@
     'tag_original' => 'ar-OM',
     'currency' => 'OMR',
     'currency_symbol' => 'ر.ع.‏',
-    'decimal_point' => 'ر.ع.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_QA' => 
   array (
@@ -387,8 +343,6 @@
     'tag_original' => 'ar-QA',
     'currency' => 'QAR',
     'currency_symbol' => 'ر.ق.‏',
-    'decimal_point' => 'ر.ق.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_SA' => 
   array (
@@ -404,8 +358,6 @@
     'tag_original' => 'ar-SA',
     'currency' => 'SAR',
     'currency_symbol' => 'ر.س.‏',
-    'decimal_point' => 'ر.س.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_SD' => 
   array (
@@ -421,8 +373,6 @@
     'tag_original' => 'ar-SD',
     'currency' => 'SDG',
     'currency_symbol' => 'SDG',
-    'decimal_point' => 'SDG ',
-    'thousands_sep' => '',
   ),
   'ar_SY' => 
   array (
@@ -438,8 +388,6 @@
     'tag_original' => 'ar-SY',
     'currency' => 'SYP',
     'currency_symbol' => 'ل.س.‏',
-    'decimal_point' => 'ل.س.‏ ',
-    'thousands_sep' => '',
   ),
   'ar_TN' => 
   array (
@@ -455,8 +403,6 @@
     'tag_original' => 'ar-TN',
     'currency' => 'TND',
     'currency_symbol' => 'د.ت.‏',
-    'decimal_point' => 'د.ت.‏',
-    'thousands_sep' => '',
   ),
   'ar_YE' => 
   array (
@@ -472,8 +418,6 @@
     'tag_original' => 'ar-YE',
     'currency' => 'YER',
     'currency_symbol' => 'ر.ي.‏',
-    'decimal_point' => 'ر.ي.‏ ',
-    'thousands_sep' => '',
   ),
   'as' => 
   array (
@@ -489,8 +433,6 @@
     'tag_original' => 'as',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'as_IN' => 
   array (
@@ -506,8 +448,6 @@
     'tag_original' => 'as-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'asa' => 
   array (
@@ -523,8 +463,6 @@
     'tag_original' => 'asa',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'asa_TZ' => 
   array (
@@ -540,8 +478,6 @@
     'tag_original' => 'asa-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => '',
-    'thousands_sep' => ' TSh',
   ),
   'az' => 
   array (
@@ -557,8 +493,6 @@
     'tag_original' => 'az',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'az_Cyrl' => 
   array (
@@ -574,8 +508,6 @@
     'tag_original' => 'az-Cyrl',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'az_Cyrl_AZ' => 
   array (
@@ -591,8 +523,6 @@
     'tag_original' => 'az-Cyrl-AZ',
     'currency' => 'AZN',
     'currency_symbol' => 'ман.',
-    'decimal_point' => 'ман. ',
-    'thousands_sep' => '',
   ),
   'az_Latn' => 
   array (
@@ -608,8 +538,6 @@
     'tag_original' => 'az-Latn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'az_Latn_AZ' => 
   array (
@@ -625,8 +553,6 @@
     'tag_original' => 'az-Latn-AZ',
     'currency' => 'AZN',
     'currency_symbol' => 'man.',
-    'decimal_point' => 'man. ',
-    'thousands_sep' => '',
   ),
   'bas' => 
   array (
@@ -642,8 +568,6 @@
     'tag_original' => 'bas',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'bas_CM' => 
   array (
@@ -659,8 +583,6 @@
     'tag_original' => 'bas-CM',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'be' => 
   array (
@@ -676,8 +598,6 @@
     'tag_original' => 'be',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'be_BY' => 
   array (
@@ -692,9 +612,7 @@
     'tag_ietf' => 'be-BY',
     'tag_original' => 'be-BY',
     'currency' => 'BYR',
-    'currency_symbol' => 'BYR',
-    'decimal_point' => 'BYR',
-    'thousands_sep' => '',
+    'currency_symbol' => 'р.',
   ),
   'bem' => 
   array (
@@ -710,8 +628,6 @@
     'tag_original' => 'bem',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'bem_ZM' => 
   array (
@@ -725,10 +641,8 @@
     'tag_icu' => 'bem_ZM',
     'tag_ietf' => 'bem-ZM',
     'tag_original' => 'bem-ZM',
-    'currency' => 'ZMK',
-    'currency_symbol' => 'ZK',
-    'decimal_point' => 'ZK',
-    'thousands_sep' => '',
+    'currency' => 'ZMW',
+    'currency_symbol' => 'KR',
   ),
   'bez' => 
   array (
@@ -744,8 +658,6 @@
     'tag_original' => 'bez',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'bez_TZ' => 
   array (
@@ -761,8 +673,6 @@
     'tag_original' => 'bez-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => '',
-    'thousands_sep' => 'TSh',
   ),
   'bg' => 
   array (
@@ -778,8 +688,6 @@
     'tag_original' => 'bg',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'bg_BG' => 
   array (
@@ -795,8 +703,6 @@
     'tag_original' => 'bg-BG',
     'currency' => 'BGN',
     'currency_symbol' => 'лв.',
-    'decimal_point' => '',
-    'thousands_sep' => ' лв.',
   ),
   'bm' => 
   array (
@@ -812,8 +718,6 @@
     'tag_original' => 'bm',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'bm_ML' => 
   array (
@@ -829,8 +733,6 @@
     'tag_original' => 'bm-ML',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => 'CFA',
-    'thousands_sep' => '',
   ),
   'bn' => 
   array (
@@ -846,8 +748,6 @@
     'tag_original' => 'bn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'bn_BD' => 
   array (
@@ -863,8 +763,6 @@
     'tag_original' => 'bn-BD',
     'currency' => 'BDT',
     'currency_symbol' => '৳',
-    'decimal_point' => '',
-    'thousands_sep' => '৳',
   ),
   'bn_IN' => 
   array (
@@ -880,8 +778,6 @@
     'tag_original' => 'bn-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '',
-    'thousands_sep' => '₹',
   ),
   'bo' => 
   array (
@@ -897,8 +793,6 @@
     'tag_original' => 'bo',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'bo_CN' => 
   array (
@@ -913,9 +807,7 @@
     'tag_ietf' => 'bo-CN',
     'tag_original' => 'bo-CN',
     'currency' => 'CNY',
-    'currency_symbol' => 'CN¥',
-    'decimal_point' => 'CN¥ ',
-    'thousands_sep' => '',
+    'currency_symbol' => '¥',
   ),
   'bo_IN' => 
   array (
@@ -931,8 +823,6 @@
     'tag_original' => 'bo-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'br' => 
   array (
@@ -948,8 +838,6 @@
     'tag_original' => 'br',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'br_FR' => 
   array (
@@ -965,8 +853,6 @@
     'tag_original' => 'br-FR',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€ ',
-    'thousands_sep' => '',
   ),
   'brx' => 
   array (
@@ -982,8 +868,6 @@
     'tag_original' => 'brx',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'brx_IN' => 
   array (
@@ -999,8 +883,6 @@
     'tag_original' => 'brx-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'bs' => 
   array (
@@ -1016,8 +898,6 @@
     'tag_original' => 'bs',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'bs_BA' => 
   array (
@@ -1033,8 +913,6 @@
     'tag_original' => 'bs-BA',
     'currency' => 'BAM',
     'currency_symbol' => 'KM',
-    'decimal_point' => 'KM ',
-    'thousands_sep' => '',
   ),
   'ca' => 
   array (
@@ -1050,8 +928,6 @@
     'tag_original' => 'ca',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ca_ES' => 
   array (
@@ -1067,8 +943,6 @@
     'tag_original' => 'ca-ES',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€',
-    'thousands_sep' => '',
   ),
   'cgg' => 
   array (
@@ -1084,8 +958,6 @@
     'tag_original' => 'cgg',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'cgg_UG' => 
   array (
@@ -1101,8 +973,6 @@
     'tag_original' => 'cgg-UG',
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
-    'decimal_point' => 'USh',
-    'thousands_sep' => '',
   ),
   'chr' => 
   array (
@@ -1118,8 +988,6 @@
     'tag_original' => 'chr',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'chr_US' => 
   array (
@@ -1135,8 +1003,6 @@
     'tag_original' => 'chr-US',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'cs' => 
   array (
@@ -1152,8 +1018,6 @@
     'tag_original' => 'cs',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'cs_CZ' => 
   array (
@@ -1169,8 +1033,6 @@
     'tag_original' => 'cs-CZ',
     'currency' => 'CZK',
     'currency_symbol' => 'Kč',
-    'decimal_point' => '',
-    'thousands_sep' => ' Kč',
   ),
   'cy' => 
   array (
@@ -1186,8 +1048,6 @@
     'tag_original' => 'cy',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'cy_GB' => 
   array (
@@ -1203,8 +1063,6 @@
     'tag_original' => 'cy-GB',
     'currency' => 'GBP',
     'currency_symbol' => '£',
-    'decimal_point' => '£ ',
-    'thousands_sep' => '',
   ),
   'da' => 
   array (
@@ -1220,8 +1078,6 @@
     'tag_original' => 'da',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'da_DK' => 
   array (
@@ -1237,8 +1093,6 @@
     'tag_original' => 'da-DK',
     'currency' => 'DKK',
     'currency_symbol' => 'kr',
-    'decimal_point' => '',
-    'thousands_sep' => ' kr',
   ),
   'dav' => 
   array (
@@ -1254,8 +1108,6 @@
     'tag_original' => 'dav',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'dav_KE' => 
   array (
@@ -1271,8 +1123,6 @@
     'tag_original' => 'dav-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'de' => 
   array (
@@ -1288,8 +1138,6 @@
     'tag_original' => 'de',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'de_AT' => 
   array (
@@ -1305,8 +1153,6 @@
     'tag_original' => 'de-AT',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€ ',
-    'thousands_sep' => '',
   ),
   'de_BE' => 
   array (
@@ -1322,8 +1168,6 @@
     'tag_original' => 'de-BE',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'de_CH' => 
   array (
@@ -1339,8 +1183,6 @@
     'tag_original' => 'de-CH',
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
-    'decimal_point' => 'CHF ',
-    'thousands_sep' => '',
   ),
   'de_DE' => 
   array (
@@ -1356,8 +1198,6 @@
     'tag_original' => 'de-DE',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'de_LI' => 
   array (
@@ -1373,8 +1213,6 @@
     'tag_original' => 'de-LI',
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
-    'decimal_point' => 'CHF ',
-    'thousands_sep' => '',
   ),
   'de_LU' => 
   array (
@@ -1390,8 +1228,6 @@
     'tag_original' => 'de-LU',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'dje' => 
   array (
@@ -1407,8 +1243,6 @@
     'tag_original' => 'dje',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'dje_NE' => 
   array (
@@ -1424,8 +1258,6 @@
     'tag_original' => 'dje-NE',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => 'CFA',
   ),
   'dua' => 
   array (
@@ -1441,8 +1273,6 @@
     'tag_original' => 'dua',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'dua_CM' => 
   array (
@@ -1458,8 +1288,6 @@
     'tag_original' => 'dua-CM',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'dyo' => 
   array (
@@ -1475,8 +1303,6 @@
     'tag_original' => 'dyo',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'dyo_SN' => 
   array (
@@ -1492,8 +1318,6 @@
     'tag_original' => 'dyo-SN',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'ebu' => 
   array (
@@ -1509,8 +1333,6 @@
     'tag_original' => 'ebu',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ebu_KE' => 
   array (
@@ -1526,8 +1348,6 @@
     'tag_original' => 'ebu-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'ee' => 
   array (
@@ -1543,8 +1363,6 @@
     'tag_original' => 'ee',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ee_GH' => 
   array (
@@ -1560,8 +1378,6 @@
     'tag_original' => 'ee-GH',
     'currency' => 'GHS',
     'currency_symbol' => 'GH₵',
-    'decimal_point' => 'GH₵',
-    'thousands_sep' => '',
   ),
   'ee_TG' => 
   array (
@@ -1577,8 +1393,6 @@
     'tag_original' => 'ee-TG',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => 'CFA',
-    'thousands_sep' => '',
   ),
   'el' => 
   array (
@@ -1594,8 +1408,6 @@
     'tag_original' => 'el',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'el_CY' => 
   array (
@@ -1611,8 +1423,6 @@
     'tag_original' => 'el-CY',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€',
-    'thousands_sep' => '',
   ),
   'el_GR' => 
   array (
@@ -1628,8 +1438,6 @@
     'tag_original' => 'el-GR',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'en' => 
   array (
@@ -1645,8 +1453,6 @@
     'tag_original' => 'en',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'en_AS' => 
   array (
@@ -1662,8 +1468,6 @@
     'tag_original' => 'en-AS',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_AU' => 
   array (
@@ -1679,8 +1483,6 @@
     'tag_original' => 'en-AU',
     'currency' => 'AUD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_BB' => 
   array (
@@ -1696,8 +1498,6 @@
     'tag_original' => 'en-BB',
     'currency' => 'BBD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_BE' => 
   array (
@@ -1713,8 +1513,6 @@
     'tag_original' => 'en-BE',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'en_BM' => 
   array (
@@ -1730,8 +1528,6 @@
     'tag_original' => 'en-BM',
     'currency' => 'BMD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_BW' => 
   array (
@@ -1747,8 +1543,6 @@
     'tag_original' => 'en-BW',
     'currency' => 'BWP',
     'currency_symbol' => 'P',
-    'decimal_point' => 'P',
-    'thousands_sep' => '',
   ),
   'en_BZ' => 
   array (
@@ -1764,8 +1558,6 @@
     'tag_original' => 'en-BZ',
     'currency' => 'BZD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_CA' => 
   array (
@@ -1781,8 +1573,6 @@
     'tag_original' => 'en-CA',
     'currency' => 'CAD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_GB' => 
   array (
@@ -1798,8 +1588,6 @@
     'tag_original' => 'en-GB',
     'currency' => 'GBP',
     'currency_symbol' => '£',
-    'decimal_point' => '£',
-    'thousands_sep' => '',
   ),
   'en_GU' => 
   array (
@@ -1815,8 +1603,6 @@
     'tag_original' => 'en-GU',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_GY' => 
   array (
@@ -1831,9 +1617,7 @@
     'tag_ietf' => 'en-GY',
     'tag_original' => 'en-GY',
     'currency' => 'GYD',
-    'currency_symbol' => 'GYD',
-    'decimal_point' => 'GYD',
-    'thousands_sep' => '',
+    'currency_symbol' => '$',
   ),
   'en_HK' => 
   array (
@@ -1849,8 +1633,6 @@
     'tag_original' => 'en-HK',
     'currency' => 'HKD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_IE' => 
   array (
@@ -1866,8 +1648,6 @@
     'tag_original' => 'en-IE',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€',
-    'thousands_sep' => '',
   ),
   'en_IN' => 
   array (
@@ -1883,8 +1663,6 @@
     'tag_original' => 'en-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'en_JM' => 
   array (
@@ -1900,8 +1678,6 @@
     'tag_original' => 'en-JM',
     'currency' => 'JMD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_MH' => 
   array (
@@ -1917,8 +1693,6 @@
     'tag_original' => 'en-MH',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_MP' => 
   array (
@@ -1934,8 +1708,6 @@
     'tag_original' => 'en-MP',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_MT' => 
   array (
@@ -1951,8 +1723,6 @@
     'tag_original' => 'en-MT',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€',
-    'thousands_sep' => '',
   ),
   'en_MU' => 
   array (
@@ -1967,9 +1737,7 @@
     'tag_ietf' => 'en-MU',
     'tag_original' => 'en-MU',
     'currency' => 'MUR',
-    'currency_symbol' => 'MUR',
-    'decimal_point' => 'MUR',
-    'thousands_sep' => '',
+    'currency_symbol' => 'Rs',
   ),
   'en_NA' => 
   array (
@@ -1985,8 +1753,6 @@
     'tag_original' => 'en-NA',
     'currency' => 'NAD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_NZ' => 
   array (
@@ -2002,8 +1768,6 @@
     'tag_original' => 'en-NZ',
     'currency' => 'NZD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_PH' => 
   array (
@@ -2019,8 +1783,6 @@
     'tag_original' => 'en-PH',
     'currency' => 'PHP',
     'currency_symbol' => '₱',
-    'decimal_point' => '₱',
-    'thousands_sep' => '',
   ),
   'en_PK' => 
   array (
@@ -2035,9 +1797,7 @@
     'tag_ietf' => 'en-PK',
     'tag_original' => 'en-PK',
     'currency' => 'PKR',
-    'currency_symbol' => '₨',
-    'decimal_point' => '₨',
-    'thousands_sep' => '',
+    'currency_symbol' => 'Rs',
   ),
   'en_SG' => 
   array (
@@ -2053,8 +1813,6 @@
     'tag_original' => 'en-SG',
     'currency' => 'SGD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_TT' => 
   array (
@@ -2070,8 +1828,6 @@
     'tag_original' => 'en-TT',
     'currency' => 'TTD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_UM' => 
   array (
@@ -2087,8 +1843,6 @@
     'tag_original' => 'en-UM',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_US' => 
   array (
@@ -2104,8 +1858,6 @@
     'tag_original' => 'en-US',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_US_POSIX' => 
   array (
@@ -2121,8 +1873,6 @@
     'tag_original' => 'en-US-POSIX',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$ ',
-    'thousands_sep' => '',
   ),
   'en_VI' => 
   array (
@@ -2138,8 +1888,6 @@
     'tag_original' => 'en-VI',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'en_ZA' => 
   array (
@@ -2155,8 +1903,6 @@
     'tag_original' => 'en-ZA',
     'currency' => 'ZAR',
     'currency_symbol' => 'R',
-    'decimal_point' => 'R',
-    'thousands_sep' => '',
   ),
   'en_ZW' => 
   array (
@@ -2171,9 +1917,7 @@
     'tag_ietf' => 'en-ZW',
     'tag_original' => 'en-ZW',
     'currency' => 'USD',
-    'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
+    'currency_symbol' => 'US$',
   ),
   'eo' => 
   array (
@@ -2189,8 +1933,6 @@
     'tag_original' => 'eo',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'es' => 
   array (
@@ -2206,8 +1948,6 @@
     'tag_original' => 'es',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'es_419' => 
   array (
@@ -2223,8 +1963,6 @@
     'tag_original' => 'es-419',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'es_AR' => 
   array (
@@ -2240,8 +1978,6 @@
     'tag_original' => 'es-AR',
     'currency' => 'ARS',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'es_BO' => 
   array (
@@ -2257,8 +1993,6 @@
     'tag_original' => 'es-BO',
     'currency' => 'BOB',
     'currency_symbol' => 'Bs',
-    'decimal_point' => 'Bs',
-    'thousands_sep' => '',
   ),
   'es_CL' => 
   array (
@@ -2274,8 +2008,6 @@
     'tag_original' => 'es-CL',
     'currency' => 'CLP',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'es_CO' => 
   array (
@@ -2291,8 +2023,6 @@
     'tag_original' => 'es-CO',
     'currency' => 'COP',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'es_CR' => 
   array (
@@ -2308,8 +2038,6 @@
     'tag_original' => 'es-CR',
     'currency' => 'CRC',
     'currency_symbol' => '₡',
-    'decimal_point' => '₡',
-    'thousands_sep' => '',
   ),
   'es_DO' => 
   array (
@@ -2325,8 +2053,6 @@
     'tag_original' => 'es-DO',
     'currency' => 'DOP',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'es_EC' => 
   array (
@@ -2342,8 +2068,6 @@
     'tag_original' => 'es-EC',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'es_ES' => 
   array (
@@ -2359,8 +2083,6 @@
     'tag_original' => 'es-ES',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'es_GQ' => 
   array (
@@ -2376,8 +2098,6 @@
     'tag_original' => 'es-GQ',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => 'FCFA',
-    'thousands_sep' => '',
   ),
   'es_GT' => 
   array (
@@ -2393,8 +2113,6 @@
     'tag_original' => 'es-GT',
     'currency' => 'GTQ',
     'currency_symbol' => 'Q',
-    'decimal_point' => 'Q',
-    'thousands_sep' => '',
   ),
   'es_HN' => 
   array (
@@ -2410,8 +2128,6 @@
     'tag_original' => 'es-HN',
     'currency' => 'HNL',
     'currency_symbol' => 'L',
-    'decimal_point' => 'L',
-    'thousands_sep' => '',
   ),
   'es_MX' => 
   array (
@@ -2427,8 +2143,6 @@
     'tag_original' => 'es-MX',
     'currency' => 'MXN',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'es_NI' => 
   array (
@@ -2444,8 +2158,6 @@
     'tag_original' => 'es-NI',
     'currency' => 'NIO',
     'currency_symbol' => 'C$',
-    'decimal_point' => 'C$',
-    'thousands_sep' => '',
   ),
   'es_PA' => 
   array (
@@ -2461,8 +2173,6 @@
     'tag_original' => 'es-PA',
     'currency' => 'PAB',
     'currency_symbol' => 'B/.',
-    'decimal_point' => 'B/.',
-    'thousands_sep' => '',
   ),
   'es_PE' => 
   array (
@@ -2478,8 +2188,6 @@
     'tag_original' => 'es-PE',
     'currency' => 'PEN',
     'currency_symbol' => 'S/.',
-    'decimal_point' => 'S/.',
-    'thousands_sep' => '',
   ),
   'es_PR' => 
   array (
@@ -2495,8 +2203,6 @@
     'tag_original' => 'es-PR',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'es_PY' => 
   array (
@@ -2512,8 +2218,6 @@
     'tag_original' => 'es-PY',
     'currency' => 'PYG',
     'currency_symbol' => '₲',
-    'decimal_point' => '₲ ',
-    'thousands_sep' => '',
   ),
   'es_SV' => 
   array (
@@ -2529,8 +2233,6 @@
     'tag_original' => 'es-SV',
     'currency' => 'USD',
     'currency_symbol' => 'US$',
-    'decimal_point' => 'US$',
-    'thousands_sep' => '',
   ),
   'es_US' => 
   array (
@@ -2546,8 +2248,6 @@
     'tag_original' => 'es-US',
     'currency' => 'USD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'es_UY' => 
   array (
@@ -2563,8 +2263,6 @@
     'tag_original' => 'es-UY',
     'currency' => 'UYU',
     'currency_symbol' => '$',
-    'decimal_point' => '$ ',
-    'thousands_sep' => '',
   ),
   'es_VE' => 
   array (
@@ -2580,8 +2278,6 @@
     'tag_original' => 'es-VE',
     'currency' => 'VEF',
     'currency_symbol' => 'Bs.',
-    'decimal_point' => 'Bs.',
-    'thousands_sep' => '',
   ),
   'et' => 
   array (
@@ -2597,8 +2293,6 @@
     'tag_original' => 'et',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'et_EE' => 
   array (
@@ -2614,8 +2308,6 @@
     'tag_original' => 'et-EE',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => '€',
   ),
   'eu' => 
   array (
@@ -2631,8 +2323,6 @@
     'tag_original' => 'eu',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'eu_ES' => 
   array (
@@ -2648,8 +2338,6 @@
     'tag_original' => 'eu-ES',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'ewo' => 
   array (
@@ -2665,8 +2353,6 @@
     'tag_original' => 'ewo',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'ewo_CM' => 
   array (
@@ -2682,8 +2368,6 @@
     'tag_original' => 'ewo-CM',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'fa' => 
   array (
@@ -2699,8 +2383,6 @@
     'tag_original' => 'fa',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '‎¤',
-    'thousands_sep' => '',
   ),
   'fa_AF' => 
   array (
@@ -2716,8 +2398,6 @@
     'tag_original' => 'fa-AF',
     'currency' => 'AFN',
     'currency_symbol' => '؋',
-    'decimal_point' => '‎؋',
-    'thousands_sep' => '',
   ),
   'fa_IR' => 
   array (
@@ -2733,8 +2413,6 @@
     'tag_original' => 'fa-IR',
     'currency' => 'IRR',
     'currency_symbol' => '﷼',
-    'decimal_point' => '‎﷼',
-    'thousands_sep' => '',
   ),
   'ff' => 
   array (
@@ -2750,8 +2428,6 @@
     'tag_original' => 'ff',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'ff_SN' => 
   array (
@@ -2767,8 +2443,6 @@
     'tag_original' => 'ff-SN',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'fi' => 
   array (
@@ -2784,8 +2458,6 @@
     'tag_original' => 'fi',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'fi_FI' => 
   array (
@@ -2801,8 +2473,6 @@
     'tag_original' => 'fi-FI',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fil' => 
   array (
@@ -2818,8 +2488,6 @@
     'tag_original' => 'fil',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'fil_PH' => 
   array (
@@ -2835,8 +2503,6 @@
     'tag_original' => 'fil-PH',
     'currency' => 'PHP',
     'currency_symbol' => '₱',
-    'decimal_point' => '₱',
-    'thousands_sep' => '',
   ),
   'fo' => 
   array (
@@ -2852,8 +2518,6 @@
     'tag_original' => 'fo',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'fo_FO' => 
   array (
@@ -2869,8 +2533,6 @@
     'tag_original' => 'fo-FO',
     'currency' => 'DKK',
     'currency_symbol' => 'kr',
-    'decimal_point' => 'kr',
-    'thousands_sep' => '',
   ),
   'fr' => 
   array (
@@ -2886,8 +2548,6 @@
     'tag_original' => 'fr',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'fr_BE' => 
   array (
@@ -2903,8 +2563,6 @@
     'tag_original' => 'fr-BE',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_BF' => 
   array (
@@ -2920,8 +2578,6 @@
     'tag_original' => 'fr-BF',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'fr_BI' => 
   array (
@@ -2937,8 +2593,6 @@
     'tag_original' => 'fr-BI',
     'currency' => 'BIF',
     'currency_symbol' => 'FBu',
-    'decimal_point' => '',
-    'thousands_sep' => ' FBu',
   ),
   'fr_BJ' => 
   array (
@@ -2954,8 +2608,6 @@
     'tag_original' => 'fr-BJ',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'fr_BL' => 
   array (
@@ -2971,8 +2623,6 @@
     'tag_original' => 'fr-BL',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_CA' => 
   array (
@@ -2988,8 +2638,6 @@
     'tag_original' => 'fr-CA',
     'currency' => 'CAD',
     'currency_symbol' => '$',
-    'decimal_point' => '',
-    'thousands_sep' => ' $',
   ),
   'fr_CD' => 
   array (
@@ -3004,9 +2652,7 @@
     'tag_ietf' => 'fr-CD',
     'tag_original' => 'fr-CD',
     'currency' => 'CDF',
-    'currency_symbol' => 'CDF',
-    'decimal_point' => '',
-    'thousands_sep' => ' CDF',
+    'currency_symbol' => 'FC',
   ),
   'fr_CF' => 
   array (
@@ -3022,8 +2668,6 @@
     'tag_original' => 'fr-CF',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'fr_CG' => 
   array (
@@ -3039,8 +2683,6 @@
     'tag_original' => 'fr-CG',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'fr_CH' => 
   array (
@@ -3056,8 +2698,6 @@
     'tag_original' => 'fr-CH',
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
-    'decimal_point' => 'CHF ',
-    'thousands_sep' => '',
   ),
   'fr_CI' => 
   array (
@@ -3073,8 +2713,6 @@
     'tag_original' => 'fr-CI',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'fr_CM' => 
   array (
@@ -3090,8 +2728,6 @@
     'tag_original' => 'fr-CM',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'fr_DJ' => 
   array (
@@ -3107,8 +2743,6 @@
     'tag_original' => 'fr-DJ',
     'currency' => 'DJF',
     'currency_symbol' => 'Fdj',
-    'decimal_point' => '',
-    'thousands_sep' => ' Fdj',
   ),
   'fr_FR' => 
   array (
@@ -3124,8 +2758,6 @@
     'tag_original' => 'fr-FR',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_GA' => 
   array (
@@ -3141,8 +2773,6 @@
     'tag_original' => 'fr-GA',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'fr_GF' => 
   array (
@@ -3158,8 +2788,6 @@
     'tag_original' => 'fr-GF',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_GN' => 
   array (
@@ -3175,8 +2803,6 @@
     'tag_original' => 'fr-GN',
     'currency' => 'GNF',
     'currency_symbol' => 'FG',
-    'decimal_point' => '',
-    'thousands_sep' => ' FG',
   ),
   'fr_GP' => 
   array (
@@ -3192,8 +2818,6 @@
     'tag_original' => 'fr-GP',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_GQ' => 
   array (
@@ -3209,8 +2833,6 @@
     'tag_original' => 'fr-GQ',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'fr_KM' => 
   array (
@@ -3226,8 +2848,6 @@
     'tag_original' => 'fr-KM',
     'currency' => 'KMF',
     'currency_symbol' => 'CF',
-    'decimal_point' => '',
-    'thousands_sep' => ' CF',
   ),
   'fr_LU' => 
   array (
@@ -3243,8 +2863,6 @@
     'tag_original' => 'fr-LU',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_MC' => 
   array (
@@ -3260,8 +2878,6 @@
     'tag_original' => 'fr-MC',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_MF' => 
   array (
@@ -3277,8 +2893,6 @@
     'tag_original' => 'fr-MF',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_MG' => 
   array (
@@ -3293,9 +2907,7 @@
     'tag_ietf' => 'fr-MG',
     'tag_original' => 'fr-MG',
     'currency' => 'MGA',
-    'currency_symbol' => 'MGA',
-    'decimal_point' => '',
-    'thousands_sep' => ' MGA',
+    'currency_symbol' => 'Ar',
   ),
   'fr_ML' => 
   array (
@@ -3311,8 +2923,6 @@
     'tag_original' => 'fr-ML',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'fr_MQ' => 
   array (
@@ -3328,8 +2938,6 @@
     'tag_original' => 'fr-MQ',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_NE' => 
   array (
@@ -3345,8 +2953,6 @@
     'tag_original' => 'fr-NE',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'fr_RE' => 
   array (
@@ -3362,8 +2968,6 @@
     'tag_original' => 'fr-RE',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'fr_RW' => 
   array (
@@ -3378,9 +2982,7 @@
     'tag_ietf' => 'fr-RW',
     'tag_original' => 'fr-RW',
     'currency' => 'RWF',
-    'currency_symbol' => 'RWF',
-    'decimal_point' => '',
-    'thousands_sep' => ' RWF',
+    'currency_symbol' => 'RF',
   ),
   'fr_SN' => 
   array (
@@ -3396,8 +2998,6 @@
     'tag_original' => 'fr-SN',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'fr_TD' => 
   array (
@@ -3413,8 +3013,6 @@
     'tag_original' => 'fr-TD',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'fr_TG' => 
   array (
@@ -3430,8 +3028,6 @@
     'tag_original' => 'fr-TG',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'fr_YT' => 
   array (
@@ -3447,8 +3043,6 @@
     'tag_original' => 'fr-YT',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'ga' => 
   array (
@@ -3464,8 +3058,6 @@
     'tag_original' => 'ga',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ga_IE' => 
   array (
@@ -3481,8 +3073,6 @@
     'tag_original' => 'ga-IE',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€',
-    'thousands_sep' => '',
   ),
   'gl' => 
   array (
@@ -3498,8 +3088,6 @@
     'tag_original' => 'gl',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'gl_ES' => 
   array (
@@ -3515,8 +3103,6 @@
     'tag_original' => 'gl-ES',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€',
-    'thousands_sep' => '',
   ),
   'gsw' => 
   array (
@@ -3532,8 +3118,6 @@
     'tag_original' => 'gsw',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'gsw_CH' => 
   array (
@@ -3549,8 +3133,6 @@
     'tag_original' => 'gsw-CH',
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
-    'decimal_point' => '',
-    'thousands_sep' => ' CHF',
   ),
   'gu' => 
   array (
@@ -3566,8 +3148,6 @@
     'tag_original' => 'gu',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'gu_IN' => 
   array (
@@ -3583,8 +3163,6 @@
     'tag_original' => 'gu-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹',
-    'thousands_sep' => '',
   ),
   'guz' => 
   array (
@@ -3600,8 +3178,6 @@
     'tag_original' => 'guz',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'guz_KE' => 
   array (
@@ -3617,8 +3193,6 @@
     'tag_original' => 'guz-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'gv' => 
   array (
@@ -3634,8 +3208,6 @@
     'tag_original' => 'gv',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'gv_GB' => 
   array (
@@ -3651,8 +3223,6 @@
     'tag_original' => 'gv-GB',
     'currency' => 'GBP',
     'currency_symbol' => '£',
-    'decimal_point' => '£',
-    'thousands_sep' => '',
   ),
   'ha' => 
   array (
@@ -3668,8 +3238,6 @@
     'tag_original' => 'ha',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'ha_Latn' => 
   array (
@@ -3685,8 +3253,6 @@
     'tag_original' => 'ha-Latn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'ha_Latn_GH' => 
   array (
@@ -3701,9 +3267,7 @@
     'tag_ietf' => 'ha-Latn-GH',
     'tag_original' => 'ha-Latn-GH',
     'currency' => 'GHS',
-    'currency_symbol' => 'GHS',
-    'decimal_point' => 'GHS ',
-    'thousands_sep' => '',
+    'currency_symbol' => 'GH₵',
   ),
   'ha_Latn_NE' => 
   array (
@@ -3719,8 +3283,6 @@
     'tag_original' => 'ha-Latn-NE',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => 'CFA ',
-    'thousands_sep' => '',
   ),
   'ha_Latn_NG' => 
   array (
@@ -3736,8 +3298,6 @@
     'tag_original' => 'ha-Latn-NG',
     'currency' => 'NGN',
     'currency_symbol' => '₦',
-    'decimal_point' => '₦ ',
-    'thousands_sep' => '',
   ),
   'haw' => 
   array (
@@ -3753,8 +3313,6 @@
     'tag_original' => 'haw',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'haw_US' => 
   array (
@@ -3769,9 +3327,7 @@
     'tag_ietf' => 'haw-US',
     'tag_original' => 'haw-US',
     'currency' => 'USD',
-    'currency_symbol' => 'US$',
-    'decimal_point' => 'US$',
-    'thousands_sep' => '',
+    'currency_symbol' => '$',
   ),
   'he' => 
   array (
@@ -3787,8 +3343,6 @@
     'tag_original' => 'he',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'he_IL' => 
   array (
@@ -3804,8 +3358,6 @@
     'tag_original' => 'he-IL',
     'currency' => 'ILS',
     'currency_symbol' => '₪',
-    'decimal_point' => '',
-    'thousands_sep' => ' ₪',
   ),
   'hi' => 
   array (
@@ -3821,8 +3373,6 @@
     'tag_original' => 'hi',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'hi_IN' => 
   array (
@@ -3838,8 +3388,6 @@
     'tag_original' => 'hi-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'hr' => 
   array (
@@ -3855,8 +3403,6 @@
     'tag_original' => 'hr',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'hr_HR' => 
   array (
@@ -3872,8 +3418,6 @@
     'tag_original' => 'hr-HR',
     'currency' => 'HRK',
     'currency_symbol' => 'kn',
-    'decimal_point' => '',
-    'thousands_sep' => ' kn',
   ),
   'hu' => 
   array (
@@ -3889,8 +3433,6 @@
     'tag_original' => 'hu',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'hu_HU' => 
   array (
@@ -3906,8 +3448,6 @@
     'tag_original' => 'hu-HU',
     'currency' => 'HUF',
     'currency_symbol' => 'Ft',
-    'decimal_point' => '',
-    'thousands_sep' => ' Ft',
   ),
   'hy' => 
   array (
@@ -3923,8 +3463,6 @@
     'tag_original' => 'hy',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'hy_AM' => 
   array (
@@ -3940,8 +3478,6 @@
     'tag_original' => 'hy-AM',
     'currency' => 'AMD',
     'currency_symbol' => 'դր.',
-    'decimal_point' => '',
-    'thousands_sep' => ' դր.',
   ),
   'id' => 
   array (
@@ -3957,8 +3493,6 @@
     'tag_original' => 'id',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'id_ID' => 
   array (
@@ -3974,8 +3508,6 @@
     'tag_original' => 'id-ID',
     'currency' => 'IDR',
     'currency_symbol' => 'Rp',
-    'decimal_point' => 'Rp',
-    'thousands_sep' => '',
   ),
   'ig' => 
   array (
@@ -3991,8 +3523,6 @@
     'tag_original' => 'ig',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ig_NG' => 
   array (
@@ -4008,8 +3538,6 @@
     'tag_original' => 'ig-NG',
     'currency' => 'NGN',
     'currency_symbol' => '₦',
-    'decimal_point' => '₦',
-    'thousands_sep' => '',
   ),
   'ii' => 
   array (
@@ -4025,8 +3553,6 @@
     'tag_original' => 'ii',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'ii_CN' => 
   array (
@@ -4041,9 +3567,7 @@
     'tag_ietf' => 'ii-CN',
     'tag_original' => 'ii-CN',
     'currency' => 'CNY',
-    'currency_symbol' => 'CN¥',
-    'decimal_point' => 'CN¥ ',
-    'thousands_sep' => '',
+    'currency_symbol' => '¥',
   ),
   'is' => 
   array (
@@ -4059,8 +3583,6 @@
     'tag_original' => 'is',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'is_IS' => 
   array (
@@ -4076,8 +3598,6 @@
     'tag_original' => 'is-IS',
     'currency' => 'ISK',
     'currency_symbol' => 'kr',
-    'decimal_point' => 'kr',
-    'thousands_sep' => '',
   ),
   'it' => 
   array (
@@ -4093,8 +3613,6 @@
     'tag_original' => 'it',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'it_CH' => 
   array (
@@ -4110,8 +3628,6 @@
     'tag_original' => 'it-CH',
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
-    'decimal_point' => 'CHF ',
-    'thousands_sep' => '',
   ),
   'it_IT' => 
   array (
@@ -4127,8 +3643,6 @@
     'tag_original' => 'it-IT',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€ ',
-    'thousands_sep' => '',
   ),
   'ja' => 
   array (
@@ -4144,8 +3658,6 @@
     'tag_original' => 'ja',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ja_JP' => 
   array (
@@ -4161,8 +3673,6 @@
     'tag_original' => 'ja-JP',
     'currency' => 'JPY',
     'currency_symbol' => '￥',
-    'decimal_point' => '￥',
-    'thousands_sep' => '',
   ),
   'jmc' => 
   array (
@@ -4178,8 +3688,6 @@
     'tag_original' => 'jmc',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'jmc_TZ' => 
   array (
@@ -4195,8 +3703,6 @@
     'tag_original' => 'jmc-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => 'TSh',
-    'thousands_sep' => '',
   ),
   'ka' => 
   array (
@@ -4212,8 +3718,6 @@
     'tag_original' => 'ka',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'ka_GE' => 
   array (
@@ -4229,8 +3733,6 @@
     'tag_original' => 'ka-GE',
     'currency' => 'GEL',
     'currency_symbol' => 'GEL',
-    'decimal_point' => '',
-    'thousands_sep' => ' GEL',
   ),
   'kab' => 
   array (
@@ -4246,8 +3748,6 @@
     'tag_original' => 'kab',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'kab_DZ' => 
   array (
@@ -4263,8 +3763,6 @@
     'tag_original' => 'kab-DZ',
     'currency' => 'DZD',
     'currency_symbol' => 'DA',
-    'decimal_point' => '',
-    'thousands_sep' => 'DA',
   ),
   'kam' => 
   array (
@@ -4280,8 +3778,6 @@
     'tag_original' => 'kam',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'kam_KE' => 
   array (
@@ -4297,8 +3793,6 @@
     'tag_original' => 'kam-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'kde' => 
   array (
@@ -4314,8 +3808,6 @@
     'tag_original' => 'kde',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'kde_TZ' => 
   array (
@@ -4331,8 +3823,6 @@
     'tag_original' => 'kde-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => 'TSh',
-    'thousands_sep' => '',
   ),
   'kea' => 
   array (
@@ -4348,8 +3838,6 @@
     'tag_original' => 'kea',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'kea_CV' => 
   array (
@@ -4365,8 +3853,6 @@
     'tag_original' => 'kea-CV',
     'currency' => 'CVE',
     'currency_symbol' => 'CVE',
-    'decimal_point' => '',
-    'thousands_sep' => 'CVE',
   ),
   'khq' => 
   array (
@@ -4382,8 +3868,6 @@
     'tag_original' => 'khq',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'khq_ML' => 
   array (
@@ -4399,8 +3883,6 @@
     'tag_original' => 'khq-ML',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => 'CFA',
   ),
   'ki' => 
   array (
@@ -4416,8 +3898,6 @@
     'tag_original' => 'ki',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ki_KE' => 
   array (
@@ -4433,8 +3913,6 @@
     'tag_original' => 'ki-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'kk' => 
   array (
@@ -4450,8 +3928,6 @@
     'tag_original' => 'kk',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'kk_Cyrl' => 
   array (
@@ -4467,8 +3943,6 @@
     'tag_original' => 'kk-Cyrl',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'kk_Cyrl_KZ' => 
   array (
@@ -4484,8 +3958,6 @@
     'tag_original' => 'kk-Cyrl-KZ',
     'currency' => 'KZT',
     'currency_symbol' => '₸',
-    'decimal_point' => '',
-    'thousands_sep' => ' ₸',
   ),
   'kl' => 
   array (
@@ -4501,8 +3973,6 @@
     'tag_original' => 'kl',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'kl_GL' => 
   array (
@@ -4518,8 +3988,6 @@
     'tag_original' => 'kl-GL',
     'currency' => 'DKK',
     'currency_symbol' => 'kr',
-    'decimal_point' => 'kr',
-    'thousands_sep' => '',
   ),
   'kln' => 
   array (
@@ -4535,8 +4003,6 @@
     'tag_original' => 'kln',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'kln_KE' => 
   array (
@@ -4552,8 +4018,6 @@
     'tag_original' => 'kln-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'km' => 
   array (
@@ -4569,8 +4033,6 @@
     'tag_original' => 'km',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'km_KH' => 
   array (
@@ -4586,8 +4048,6 @@
     'tag_original' => 'km-KH',
     'currency' => 'KHR',
     'currency_symbol' => '៛',
-    'decimal_point' => '៛',
-    'thousands_sep' => '',
   ),
   'kn' => 
   array (
@@ -4603,8 +4063,6 @@
     'tag_original' => 'kn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'kn_IN' => 
   array (
@@ -4620,8 +4078,6 @@
     'tag_original' => 'kn-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹',
-    'thousands_sep' => '',
   ),
   'ko' => 
   array (
@@ -4637,8 +4093,6 @@
     'tag_original' => 'ko',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ko_KR' => 
   array (
@@ -4654,8 +4108,6 @@
     'tag_original' => 'ko-KR',
     'currency' => 'KRW',
     'currency_symbol' => '₩',
-    'decimal_point' => '₩',
-    'thousands_sep' => '',
   ),
   'kok' => 
   array (
@@ -4671,8 +4123,6 @@
     'tag_original' => 'kok',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'kok_IN' => 
   array (
@@ -4688,8 +4138,6 @@
     'tag_original' => 'kok-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'ksb' => 
   array (
@@ -4705,8 +4153,6 @@
     'tag_original' => 'ksb',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'ksb_TZ' => 
   array (
@@ -4722,8 +4168,6 @@
     'tag_original' => 'ksb-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => '',
-    'thousands_sep' => 'TSh',
   ),
   'ksf' => 
   array (
@@ -4739,8 +4183,6 @@
     'tag_original' => 'ksf',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'ksf_CM' => 
   array (
@@ -4756,8 +4198,6 @@
     'tag_original' => 'ksf-CM',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'kw' => 
   array (
@@ -4773,8 +4213,6 @@
     'tag_original' => 'kw',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'kw_GB' => 
   array (
@@ -4790,8 +4228,6 @@
     'tag_original' => 'kw-GB',
     'currency' => 'GBP',
     'currency_symbol' => '£',
-    'decimal_point' => '£',
-    'thousands_sep' => '',
   ),
   'lag' => 
   array (
@@ -4807,8 +4243,6 @@
     'tag_original' => 'lag',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'lag_TZ' => 
   array (
@@ -4824,8 +4258,6 @@
     'tag_original' => 'lag-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => 'TSh ',
-    'thousands_sep' => '',
   ),
   'lg' => 
   array (
@@ -4841,8 +4273,6 @@
     'tag_original' => 'lg',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'lg_UG' => 
   array (
@@ -4858,8 +4288,6 @@
     'tag_original' => 'lg-UG',
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
-    'decimal_point' => '',
-    'thousands_sep' => 'USh',
   ),
   'ln' => 
   array (
@@ -4875,8 +4303,6 @@
     'tag_original' => 'ln',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'ln_CD' => 
   array (
@@ -4891,9 +4317,7 @@
     'tag_ietf' => 'ln-CD',
     'tag_original' => 'ln-CD',
     'currency' => 'CDF',
-    'currency_symbol' => 'CDF',
-    'decimal_point' => '',
-    'thousands_sep' => ' CDF',
+    'currency_symbol' => 'FC',
   ),
   'ln_CG' => 
   array (
@@ -4909,8 +4333,6 @@
     'tag_original' => 'ln-CG',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'lt' => 
   array (
@@ -4926,8 +4348,6 @@
     'tag_original' => 'lt',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'lt_LT' => 
   array (
@@ -4943,8 +4363,6 @@
     'tag_original' => 'lt-LT',
     'currency' => 'LTL',
     'currency_symbol' => 'Lt',
-    'decimal_point' => '',
-    'thousands_sep' => ' Lt',
   ),
   'lu' => 
   array (
@@ -4960,8 +4378,6 @@
     'tag_original' => 'lu',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'lu_CD' => 
   array (
@@ -4976,9 +4392,7 @@
     'tag_ietf' => 'lu-CD',
     'tag_original' => 'lu-CD',
     'currency' => 'CDF',
-    'currency_symbol' => 'CDF',
-    'decimal_point' => '',
-    'thousands_sep' => 'CDF',
+    'currency_symbol' => 'FC',
   ),
   'luo' => 
   array (
@@ -4994,8 +4408,6 @@
     'tag_original' => 'luo',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'luo_KE' => 
   array (
@@ -5010,9 +4422,7 @@
     'tag_ietf' => 'luo-KE',
     'tag_original' => 'luo-KE',
     'currency' => 'KES',
-    'currency_symbol' => 'KES',
-    'decimal_point' => '',
-    'thousands_sep' => 'KES',
+    'currency_symbol' => 'Ksh',
   ),
   'luy' => 
   array (
@@ -5028,8 +4438,6 @@
     'tag_original' => 'luy',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'luy_KE' => 
   array (
@@ -5044,9 +4452,7 @@
     'tag_ietf' => 'luy-KE',
     'tag_original' => 'luy-KE',
     'currency' => 'KES',
-    'currency_symbol' => 'KES',
-    'decimal_point' => 'KES',
-    'thousands_sep' => '',
+    'currency_symbol' => 'Ksh',
   ),
   'lv' => 
   array (
@@ -5062,8 +4468,6 @@
     'tag_original' => 'lv',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'lv_LV' => 
   array (
@@ -5079,8 +4483,6 @@
     'tag_original' => 'lv-LV',
     'currency' => 'LVL',
     'currency_symbol' => 'Ls',
-    'decimal_point' => 'Ls',
-    'thousands_sep' => '',
   ),
   'mas' => 
   array (
@@ -5096,8 +4498,6 @@
     'tag_original' => 'mas',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'mas_KE' => 
   array (
@@ -5113,8 +4513,6 @@
     'tag_original' => 'mas-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'mas_TZ' => 
   array (
@@ -5130,8 +4528,6 @@
     'tag_original' => 'mas-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => 'TSh',
-    'thousands_sep' => '',
   ),
   'mer' => 
   array (
@@ -5147,8 +4543,6 @@
     'tag_original' => 'mer',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'mer_KE' => 
   array (
@@ -5164,8 +4558,6 @@
     'tag_original' => 'mer-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'mfe' => 
   array (
@@ -5181,8 +4573,6 @@
     'tag_original' => 'mfe',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'mfe_MU' => 
   array (
@@ -5197,9 +4587,7 @@
     'tag_ietf' => 'mfe-MU',
     'tag_original' => 'mfe-MU',
     'currency' => 'MUR',
-    'currency_symbol' => 'MUR',
-    'decimal_point' => 'MUR ',
-    'thousands_sep' => '',
+    'currency_symbol' => 'Rs',
   ),
   'mg' => 
   array (
@@ -5215,8 +4603,6 @@
     'tag_original' => 'mg',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'mg_MG' => 
   array (
@@ -5231,9 +4617,7 @@
     'tag_ietf' => 'mg-MG',
     'tag_original' => 'mg-MG',
     'currency' => 'MGA',
-    'currency_symbol' => 'MGA',
-    'decimal_point' => 'MGA',
-    'thousands_sep' => '',
+    'currency_symbol' => 'Ar',
   ),
   'mgh' => 
   array (
@@ -5249,8 +4633,6 @@
     'tag_original' => 'mgh',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'mgh_MZ' => 
   array (
@@ -5266,8 +4648,6 @@
     'tag_original' => 'mgh-MZ',
     'currency' => 'MZN',
     'currency_symbol' => 'MTn',
-    'decimal_point' => 'MTn ',
-    'thousands_sep' => '',
   ),
   'mk' => 
   array (
@@ -5283,8 +4663,6 @@
     'tag_original' => 'mk',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'mk_MK' => 
   array (
@@ -5299,9 +4677,7 @@
     'tag_ietf' => 'mk-MK',
     'tag_original' => 'mk-MK',
     'currency' => 'MKD',
-    'currency_symbol' => 'MKD',
-    'decimal_point' => 'MKD ',
-    'thousands_sep' => '',
+    'currency_symbol' => 'ден',
   ),
   'ml' => 
   array (
@@ -5317,8 +4693,6 @@
     'tag_original' => 'ml',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'ml_IN' => 
   array (
@@ -5334,8 +4708,6 @@
     'tag_original' => 'ml-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '',
-    'thousands_sep' => '₹',
   ),
   'mr' => 
   array (
@@ -5351,8 +4723,6 @@
     'tag_original' => 'mr',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'mr_IN' => 
   array (
@@ -5368,8 +4738,6 @@
     'tag_original' => 'mr-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹',
-    'thousands_sep' => '',
   ),
   'ms' => 
   array (
@@ -5385,8 +4753,6 @@
     'tag_original' => 'ms',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ms_BN' => 
   array (
@@ -5402,8 +4768,6 @@
     'tag_original' => 'ms-BN',
     'currency' => 'BND',
     'currency_symbol' => '$',
-    'decimal_point' => '$ ',
-    'thousands_sep' => '',
   ),
   'ms_MY' => 
   array (
@@ -5419,8 +4783,6 @@
     'tag_original' => 'ms-MY',
     'currency' => 'MYR',
     'currency_symbol' => 'RM',
-    'decimal_point' => 'RM',
-    'thousands_sep' => '',
   ),
   'mt' => 
   array (
@@ -5436,8 +4798,6 @@
     'tag_original' => 'mt',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'mt_MT' => 
   array (
@@ -5453,8 +4813,6 @@
     'tag_original' => 'mt-MT',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€',
-    'thousands_sep' => '',
   ),
   'mua' => 
   array (
@@ -5470,8 +4828,6 @@
     'tag_original' => 'mua',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'mua_CM' => 
   array (
@@ -5487,8 +4843,6 @@
     'tag_original' => 'mua-CM',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => 'FCFA',
-    'thousands_sep' => '',
   ),
   'my' => 
   array (
@@ -5504,8 +4858,6 @@
     'tag_original' => 'my',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'my_MM' => 
   array (
@@ -5521,8 +4873,6 @@
     'tag_original' => 'my-MM',
     'currency' => 'MMK',
     'currency_symbol' => 'K',
-    'decimal_point' => 'K ',
-    'thousands_sep' => '',
   ),
   'naq' => 
   array (
@@ -5538,8 +4888,6 @@
     'tag_original' => 'naq',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'naq_NA' => 
   array (
@@ -5555,8 +4903,6 @@
     'tag_original' => 'naq-NA',
     'currency' => 'NAD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'nb' => 
   array (
@@ -5572,8 +4918,6 @@
     'tag_original' => 'nb',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'nb_NO' => 
   array (
@@ -5589,8 +4933,6 @@
     'tag_original' => 'nb-NO',
     'currency' => 'NOK',
     'currency_symbol' => 'kr',
-    'decimal_point' => 'kr ',
-    'thousands_sep' => '',
   ),
   'nd' => 
   array (
@@ -5606,8 +4948,6 @@
     'tag_original' => 'nd',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'nd_ZW' => 
   array (
@@ -5623,8 +4963,6 @@
     'tag_original' => 'nd-ZW',
     'currency' => 'USD',
     'currency_symbol' => 'US$',
-    'decimal_point' => 'US$',
-    'thousands_sep' => '',
   ),
   'ne' => 
   array (
@@ -5640,8 +4978,6 @@
     'tag_original' => 'ne',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'ne_IN' => 
   array (
@@ -5657,8 +4993,6 @@
     'tag_original' => 'ne-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'ne_NP' => 
   array (
@@ -5674,8 +5008,6 @@
     'tag_original' => 'ne-NP',
     'currency' => 'NPR',
     'currency_symbol' => 'नेरू',
-    'decimal_point' => 'नेरू ',
-    'thousands_sep' => '',
   ),
   'nl' => 
   array (
@@ -5691,8 +5023,6 @@
     'tag_original' => 'nl',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'nl_AW' => 
   array (
@@ -5708,8 +5038,6 @@
     'tag_original' => 'nl-AW',
     'currency' => 'AWG',
     'currency_symbol' => 'Afl.',
-    'decimal_point' => 'Afl. ',
-    'thousands_sep' => '',
   ),
   'nl_BE' => 
   array (
@@ -5725,8 +5053,6 @@
     'tag_original' => 'nl-BE',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'nl_CW' => 
   array (
@@ -5740,10 +5066,8 @@
     'tag_icu' => 'nl_CW',
     'tag_ietf' => 'nl-CW',
     'tag_original' => 'nl-CW',
-    'currency' => '',
-    'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
+    'currency' => 'ANG',
+    'currency_symbol' => 'NAf.',
   ),
   'nl_NL' => 
   array (
@@ -5759,8 +5083,6 @@
     'tag_original' => 'nl-NL',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€ ',
-    'thousands_sep' => '',
   ),
   'nl_SX' => 
   array (
@@ -5774,10 +5096,8 @@
     'tag_icu' => 'nl_SX',
     'tag_ietf' => 'nl-SX',
     'tag_original' => 'nl-SX',
-    'currency' => '',
-    'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
+    'currency' => 'ANG',
+    'currency_symbol' => 'NAf.',
   ),
   'nmg' => 
   array (
@@ -5793,8 +5113,6 @@
     'tag_original' => 'nmg',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'nmg_CM' => 
   array (
@@ -5810,8 +5128,6 @@
     'tag_original' => 'nmg-CM',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'nn' => 
   array (
@@ -5827,8 +5143,6 @@
     'tag_original' => 'nn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'nn_NO' => 
   array (
@@ -5844,8 +5158,6 @@
     'tag_original' => 'nn-NO',
     'currency' => 'NOK',
     'currency_symbol' => 'kr',
-    'decimal_point' => '',
-    'thousands_sep' => ' kr',
   ),
   'nus' => 
   array (
@@ -5861,8 +5173,6 @@
     'tag_original' => 'nus',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'nus_SD' => 
   array (
@@ -5878,8 +5188,6 @@
     'tag_original' => 'nus-SD',
     'currency' => 'SDG',
     'currency_symbol' => 'SDG',
-    'decimal_point' => 'SDG',
-    'thousands_sep' => '',
   ),
   'nyn' => 
   array (
@@ -5895,8 +5203,6 @@
     'tag_original' => 'nyn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'nyn_UG' => 
   array (
@@ -5912,8 +5218,6 @@
     'tag_original' => 'nyn-UG',
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
-    'decimal_point' => 'USh',
-    'thousands_sep' => '',
   ),
   'om' => 
   array (
@@ -5929,8 +5233,6 @@
     'tag_original' => 'om',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'om_ET' => 
   array (
@@ -5946,8 +5248,6 @@
     'tag_original' => 'om-ET',
     'currency' => 'ETB',
     'currency_symbol' => 'Br',
-    'decimal_point' => 'Br',
-    'thousands_sep' => '',
   ),
   'om_KE' => 
   array (
@@ -5963,8 +5263,6 @@
     'tag_original' => 'om-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'or' => 
   array (
@@ -5980,8 +5278,6 @@
     'tag_original' => 'or',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'or_IN' => 
   array (
@@ -5997,8 +5293,6 @@
     'tag_original' => 'or-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'pa' => 
   array (
@@ -6014,8 +5308,6 @@
     'tag_original' => 'pa',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'pa_Arab' => 
   array (
@@ -6031,8 +5323,6 @@
     'tag_original' => 'pa-Arab',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'pa_Arab_PK' => 
   array (
@@ -6048,8 +5338,6 @@
     'tag_original' => 'pa-Arab-PK',
     'currency' => 'PKR',
     'currency_symbol' => 'ر',
-    'decimal_point' => 'ر ',
-    'thousands_sep' => '',
   ),
   'pa_Guru' => 
   array (
@@ -6065,8 +5353,6 @@
     'tag_original' => 'pa-Guru',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'pa_Guru_IN' => 
   array (
@@ -6082,8 +5368,6 @@
     'tag_original' => 'pa-Guru-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'pl' => 
   array (
@@ -6099,8 +5383,6 @@
     'tag_original' => 'pl',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'pl_PL' => 
   array (
@@ -6116,8 +5398,6 @@
     'tag_original' => 'pl-PL',
     'currency' => 'PLN',
     'currency_symbol' => 'zł',
-    'decimal_point' => '',
-    'thousands_sep' => ' zł',
   ),
   'ps' => 
   array (
@@ -6133,8 +5413,6 @@
     'tag_original' => 'ps',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'ps_AF' => 
   array (
@@ -6150,8 +5428,6 @@
     'tag_original' => 'ps-AF',
     'currency' => 'AFN',
     'currency_symbol' => '؋',
-    'decimal_point' => '',
-    'thousands_sep' => ' ؋',
   ),
   'pt' => 
   array (
@@ -6167,8 +5443,6 @@
     'tag_original' => 'pt',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'pt_AO' => 
   array (
@@ -6184,8 +5458,6 @@
     'tag_original' => 'pt-AO',
     'currency' => 'AOA',
     'currency_symbol' => 'Kz',
-    'decimal_point' => '',
-    'thousands_sep' => ' Kz',
   ),
   'pt_BR' => 
   array (
@@ -6201,8 +5473,6 @@
     'tag_original' => 'pt-BR',
     'currency' => 'BRL',
     'currency_symbol' => 'R$',
-    'decimal_point' => 'R$',
-    'thousands_sep' => '',
   ),
   'pt_GW' => 
   array (
@@ -6218,8 +5488,6 @@
     'tag_original' => 'pt-GW',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' CFA',
   ),
   'pt_MZ' => 
   array (
@@ -6235,8 +5503,6 @@
     'tag_original' => 'pt-MZ',
     'currency' => 'MZN',
     'currency_symbol' => 'MTn',
-    'decimal_point' => '',
-    'thousands_sep' => ' MTn',
   ),
   'pt_PT' => 
   array (
@@ -6252,8 +5518,6 @@
     'tag_original' => 'pt-PT',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'pt_ST' => 
   array (
@@ -6269,8 +5533,6 @@
     'tag_original' => 'pt-ST',
     'currency' => 'STD',
     'currency_symbol' => 'Db',
-    'decimal_point' => '',
-    'thousands_sep' => ' Db',
   ),
   'rm' => 
   array (
@@ -6286,8 +5548,6 @@
     'tag_original' => 'rm',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'rm_CH' => 
   array (
@@ -6303,8 +5563,6 @@
     'tag_original' => 'rm-CH',
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
-    'decimal_point' => '',
-    'thousands_sep' => ' CHF',
   ),
   'rn' => 
   array (
@@ -6320,8 +5578,6 @@
     'tag_original' => 'rn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'rn_BI' => 
   array (
@@ -6337,8 +5593,6 @@
     'tag_original' => 'rn-BI',
     'currency' => 'BIF',
     'currency_symbol' => 'FBu',
-    'decimal_point' => '',
-    'thousands_sep' => 'FBu',
   ),
   'ro' => 
   array (
@@ -6354,8 +5608,6 @@
     'tag_original' => 'ro',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'ro_MD' => 
   array (
@@ -6371,8 +5623,6 @@
     'tag_original' => 'ro-MD',
     'currency' => 'MDL',
     'currency_symbol' => 'MDL',
-    'decimal_point' => '',
-    'thousands_sep' => ' MDL',
   ),
   'ro_RO' => 
   array (
@@ -6388,8 +5638,6 @@
     'tag_original' => 'ro-RO',
     'currency' => 'RON',
     'currency_symbol' => 'RON',
-    'decimal_point' => '',
-    'thousands_sep' => ' RON',
   ),
   'rof' => 
   array (
@@ -6405,8 +5653,6 @@
     'tag_original' => 'rof',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'rof_TZ' => 
   array (
@@ -6422,8 +5668,6 @@
     'tag_original' => 'rof-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => 'TSh',
-    'thousands_sep' => '',
   ),
   'ru' => 
   array (
@@ -6439,8 +5683,6 @@
     'tag_original' => 'ru',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'ru_MD' => 
   array (
@@ -6456,8 +5698,6 @@
     'tag_original' => 'ru-MD',
     'currency' => 'MDL',
     'currency_symbol' => 'MDL',
-    'decimal_point' => '',
-    'thousands_sep' => ' MDL',
   ),
   'ru_RU' => 
   array (
@@ -6473,8 +5713,6 @@
     'tag_original' => 'ru-RU',
     'currency' => 'RUB',
     'currency_symbol' => 'руб.',
-    'decimal_point' => '',
-    'thousands_sep' => ' руб.',
   ),
   'ru_UA' => 
   array (
@@ -6490,8 +5728,6 @@
     'tag_original' => 'ru-UA',
     'currency' => 'UAH',
     'currency_symbol' => '₴',
-    'decimal_point' => '',
-    'thousands_sep' => ' ₴',
   ),
   'rw' => 
   array (
@@ -6507,8 +5743,6 @@
     'tag_original' => 'rw',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'rw_RW' => 
   array (
@@ -6524,8 +5758,6 @@
     'tag_original' => 'rw-RW',
     'currency' => 'RWF',
     'currency_symbol' => 'RF',
-    'decimal_point' => 'RF ',
-    'thousands_sep' => '',
   ),
   'rwk' => 
   array (
@@ -6541,8 +5773,6 @@
     'tag_original' => 'rwk',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'rwk_TZ' => 
   array (
@@ -6558,8 +5788,6 @@
     'tag_original' => 'rwk-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => '',
-    'thousands_sep' => 'TSh',
   ),
   'saq' => 
   array (
@@ -6575,8 +5803,6 @@
     'tag_original' => 'saq',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'saq_KE' => 
   array (
@@ -6592,8 +5818,6 @@
     'tag_original' => 'saq-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'sbp' => 
   array (
@@ -6609,8 +5833,6 @@
     'tag_original' => 'sbp',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'sbp_TZ' => 
   array (
@@ -6626,8 +5848,6 @@
     'tag_original' => 'sbp-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => '',
-    'thousands_sep' => 'TSh',
   ),
   'seh' => 
   array (
@@ -6643,8 +5863,6 @@
     'tag_original' => 'seh',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'seh_MZ' => 
   array (
@@ -6660,8 +5878,6 @@
     'tag_original' => 'seh-MZ',
     'currency' => 'MZN',
     'currency_symbol' => 'MTn',
-    'decimal_point' => '',
-    'thousands_sep' => 'MTn',
   ),
   'ses' => 
   array (
@@ -6677,8 +5893,6 @@
     'tag_original' => 'ses',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'ses_ML' => 
   array (
@@ -6694,8 +5908,6 @@
     'tag_original' => 'ses-ML',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => 'CFA',
   ),
   'sg' => 
   array (
@@ -6711,8 +5923,6 @@
     'tag_original' => 'sg',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'sg_CF' => 
   array (
@@ -6728,8 +5938,6 @@
     'tag_original' => 'sg-CF',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => 'FCFA',
-    'thousands_sep' => '',
   ),
   'shi' => 
   array (
@@ -6745,8 +5953,6 @@
     'tag_original' => 'shi',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'shi_Latn' => 
   array (
@@ -6762,8 +5968,6 @@
     'tag_original' => 'shi-Latn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'shi_Latn_MA' => 
   array (
@@ -6779,8 +5983,6 @@
     'tag_original' => 'shi-Latn-MA',
     'currency' => 'MAD',
     'currency_symbol' => 'MAD',
-    'decimal_point' => '',
-    'thousands_sep' => 'MAD',
   ),
   'shi_Tfng' => 
   array (
@@ -6796,8 +5998,6 @@
     'tag_original' => 'shi-Tfng',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'shi_Tfng_MA' => 
   array (
@@ -6813,8 +6013,6 @@
     'tag_original' => 'shi-Tfng-MA',
     'currency' => 'MAD',
     'currency_symbol' => 'MAD',
-    'decimal_point' => '',
-    'thousands_sep' => 'MAD',
   ),
   'si' => 
   array (
@@ -6830,8 +6028,6 @@
     'tag_original' => 'si',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'si_LK' => 
   array (
@@ -6847,8 +6043,6 @@
     'tag_original' => 'si-LK',
     'currency' => 'LKR',
     'currency_symbol' => 'රු.',
-    'decimal_point' => 'රු. ',
-    'thousands_sep' => '',
   ),
   'sk' => 
   array (
@@ -6864,8 +6058,6 @@
     'tag_original' => 'sk',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'sk_SK' => 
   array (
@@ -6880,9 +6072,7 @@
     'tag_ietf' => 'sk-SK',
     'tag_original' => 'sk-SK',
     'currency' => 'EUR',
-    'currency_symbol' => 'EUR',
-    'decimal_point' => '',
-    'thousands_sep' => ' EUR',
+    'currency_symbol' => '€',
   ),
   'sl' => 
   array (
@@ -6898,8 +6088,6 @@
     'tag_original' => 'sl',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'sl_SI' => 
   array (
@@ -6915,8 +6103,6 @@
     'tag_original' => 'sl-SI',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€',
-    'thousands_sep' => '',
   ),
   'sn' => 
   array (
@@ -6932,8 +6118,6 @@
     'tag_original' => 'sn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'sn_ZW' => 
   array (
@@ -6949,8 +6133,6 @@
     'tag_original' => 'sn-ZW',
     'currency' => 'USD',
     'currency_symbol' => 'US$',
-    'decimal_point' => 'US$',
-    'thousands_sep' => '',
   ),
   'so' => 
   array (
@@ -6966,8 +6148,6 @@
     'tag_original' => 'so',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'so_DJ' => 
   array (
@@ -6983,8 +6163,6 @@
     'tag_original' => 'so-DJ',
     'currency' => 'DJF',
     'currency_symbol' => 'Fdj',
-    'decimal_point' => 'Fdj',
-    'thousands_sep' => '',
   ),
   'so_ET' => 
   array (
@@ -7000,8 +6178,6 @@
     'tag_original' => 'so-ET',
     'currency' => 'ETB',
     'currency_symbol' => 'Br',
-    'decimal_point' => 'Br',
-    'thousands_sep' => '',
   ),
   'so_KE' => 
   array (
@@ -7017,8 +6193,6 @@
     'tag_original' => 'so-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'so_SO' => 
   array (
@@ -7033,9 +6207,7 @@
     'tag_ietf' => 'so-SO',
     'tag_original' => 'so-SO',
     'currency' => 'SOS',
-    'currency_symbol' => 'SOS',
-    'decimal_point' => 'SOS',
-    'thousands_sep' => '',
+    'currency_symbol' => 'S',
   ),
   'sq' => 
   array (
@@ -7051,8 +6223,6 @@
     'tag_original' => 'sq',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'sq_AL' => 
   array (
@@ -7068,8 +6238,6 @@
     'tag_original' => 'sq-AL',
     'currency' => 'ALL',
     'currency_symbol' => 'Lek',
-    'decimal_point' => 'Lek',
-    'thousands_sep' => '',
   ),
   'sr' => 
   array (
@@ -7085,8 +6253,6 @@
     'tag_original' => 'sr',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'sr_Cyrl' => 
   array (
@@ -7102,8 +6268,6 @@
     'tag_original' => 'sr-Cyrl',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'sr_Cyrl_BA' => 
   array (
@@ -7118,9 +6282,7 @@
     'tag_ietf' => 'sr-Cyrl-BA',
     'tag_original' => 'sr-Cyrl-BA',
     'currency' => 'BAM',
-    'currency_symbol' => 'КМ.',
-    'decimal_point' => '',
-    'thousands_sep' => ' КМ.',
+    'currency_symbol' => 'КМ',
   ),
   'sr_Cyrl_ME' => 
   array (
@@ -7136,8 +6298,6 @@
     'tag_original' => 'sr-Cyrl-ME',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'sr_Cyrl_RS' => 
   array (
@@ -7153,8 +6313,6 @@
     'tag_original' => 'sr-Cyrl-RS',
     'currency' => 'RSD',
     'currency_symbol' => 'дин.',
-    'decimal_point' => '',
-    'thousands_sep' => ' дин.',
   ),
   'sr_Latn' => 
   array (
@@ -7170,8 +6328,6 @@
     'tag_original' => 'sr-Latn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'sr_Latn_BA' => 
   array (
@@ -7187,8 +6343,6 @@
     'tag_original' => 'sr-Latn-BA',
     'currency' => 'BAM',
     'currency_symbol' => 'KM',
-    'decimal_point' => 'KM ',
-    'thousands_sep' => '',
   ),
   'sr_Latn_ME' => 
   array (
@@ -7204,8 +6358,6 @@
     'tag_original' => 'sr-Latn-ME',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '€ ',
-    'thousands_sep' => '',
   ),
   'sr_Latn_RS' => 
   array (
@@ -7221,8 +6373,6 @@
     'tag_original' => 'sr-Latn-RS',
     'currency' => 'RSD',
     'currency_symbol' => 'din.',
-    'decimal_point' => 'din. ',
-    'thousands_sep' => '',
   ),
   'sv' => 
   array (
@@ -7238,8 +6388,6 @@
     'tag_original' => 'sv',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'sv_FI' => 
   array (
@@ -7255,8 +6403,6 @@
     'tag_original' => 'sv-FI',
     'currency' => 'EUR',
     'currency_symbol' => '€',
-    'decimal_point' => '',
-    'thousands_sep' => ' €',
   ),
   'sv_SE' => 
   array (
@@ -7272,8 +6418,6 @@
     'tag_original' => 'sv-SE',
     'currency' => 'SEK',
     'currency_symbol' => 'kr',
-    'decimal_point' => '',
-    'thousands_sep' => ' kr',
   ),
   'sw' => 
   array (
@@ -7289,8 +6433,6 @@
     'tag_original' => 'sw',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'sw_KE' => 
   array (
@@ -7306,8 +6448,6 @@
     'tag_original' => 'sw-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'sw_TZ' => 
   array (
@@ -7323,8 +6463,6 @@
     'tag_original' => 'sw-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => 'TSh',
-    'thousands_sep' => '',
   ),
   'swc' => 
   array (
@@ -7340,8 +6478,6 @@
     'tag_original' => 'swc',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'swc_CD' => 
   array (
@@ -7356,9 +6492,7 @@
     'tag_ietf' => 'swc-CD',
     'tag_original' => 'swc-CD',
     'currency' => 'CDF',
-    'currency_symbol' => 'CDF',
-    'decimal_point' => 'CDF',
-    'thousands_sep' => '',
+    'currency_symbol' => 'FC',
   ),
   'ta' => 
   array (
@@ -7374,8 +6508,6 @@
     'tag_original' => 'ta',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'ta_IN' => 
   array (
@@ -7391,8 +6523,6 @@
     'tag_original' => 'ta-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'ta_LK' => 
   array (
@@ -7408,8 +6538,6 @@
     'tag_original' => 'ta-LK',
     'currency' => 'LKR',
     'currency_symbol' => 'Rs.',
-    'decimal_point' => 'Rs. ',
-    'thousands_sep' => '',
   ),
   'te' => 
   array (
@@ -7425,8 +6553,6 @@
     'tag_original' => 'te',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'te_IN' => 
   array (
@@ -7442,8 +6568,6 @@
     'tag_original' => 'te-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹',
-    'thousands_sep' => '',
   ),
   'teo' => 
   array (
@@ -7459,8 +6583,6 @@
     'tag_original' => 'teo',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'teo_KE' => 
   array (
@@ -7476,8 +6598,6 @@
     'tag_original' => 'teo-KE',
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
-    'decimal_point' => 'Ksh',
-    'thousands_sep' => '',
   ),
   'teo_UG' => 
   array (
@@ -7493,8 +6613,6 @@
     'tag_original' => 'teo-UG',
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
-    'decimal_point' => 'USh',
-    'thousands_sep' => '',
   ),
   'th' => 
   array (
@@ -7510,8 +6628,6 @@
     'tag_original' => 'th',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'th_TH' => 
   array (
@@ -7527,8 +6643,6 @@
     'tag_original' => 'th-TH',
     'currency' => 'THB',
     'currency_symbol' => '฿',
-    'decimal_point' => '฿',
-    'thousands_sep' => '',
   ),
   'ti' => 
   array (
@@ -7544,8 +6658,6 @@
     'tag_original' => 'ti',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ti_ER' => 
   array (
@@ -7561,8 +6673,6 @@
     'tag_original' => 'ti-ER',
     'currency' => 'ERN',
     'currency_symbol' => 'Nfk',
-    'decimal_point' => 'Nfk',
-    'thousands_sep' => '',
   ),
   'ti_ET' => 
   array (
@@ -7578,8 +6688,6 @@
     'tag_original' => 'ti-ET',
     'currency' => 'ETB',
     'currency_symbol' => 'Br',
-    'decimal_point' => 'Br',
-    'thousands_sep' => '',
   ),
   'to' => 
   array (
@@ -7595,8 +6703,6 @@
     'tag_original' => 'to',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'to_TO' => 
   array (
@@ -7612,8 +6718,6 @@
     'tag_original' => 'to-TO',
     'currency' => 'TOP',
     'currency_symbol' => 'T$',
-    'decimal_point' => 'T$ ',
-    'thousands_sep' => '',
   ),
   'tr' => 
   array (
@@ -7629,8 +6733,6 @@
     'tag_original' => 'tr',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'tr_TR' => 
   array (
@@ -7646,8 +6748,6 @@
     'tag_original' => 'tr-TR',
     'currency' => 'TRY',
     'currency_symbol' => '₺',
-    'decimal_point' => '',
-    'thousands_sep' => ' ₺',
   ),
   'twq' => 
   array (
@@ -7663,8 +6763,6 @@
     'tag_original' => 'twq',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => '¤',
   ),
   'twq_NE' => 
   array (
@@ -7680,8 +6778,6 @@
     'tag_original' => 'twq-NE',
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
-    'decimal_point' => '',
-    'thousands_sep' => 'CFA',
   ),
   'tzm' => 
   array (
@@ -7697,8 +6793,6 @@
     'tag_original' => 'tzm',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'tzm_Latn' => 
   array (
@@ -7714,8 +6808,6 @@
     'tag_original' => 'tzm-Latn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'tzm_Latn_MA' => 
   array (
@@ -7731,8 +6823,6 @@
     'tag_original' => 'tzm-Latn-MA',
     'currency' => 'MAD',
     'currency_symbol' => 'MAD',
-    'decimal_point' => '',
-    'thousands_sep' => ' MAD',
   ),
   'uk' => 
   array (
@@ -7748,8 +6838,6 @@
     'tag_original' => 'uk',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'uk_UA' => 
   array (
@@ -7765,8 +6853,6 @@
     'tag_original' => 'uk-UA',
     'currency' => 'UAH',
     'currency_symbol' => '₴',
-    'decimal_point' => '',
-    'thousands_sep' => ' ₴',
   ),
   'ur' => 
   array (
@@ -7782,8 +6868,6 @@
     'tag_original' => 'ur',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'ur_IN' => 
   array (
@@ -7799,8 +6883,6 @@
     'tag_original' => 'ur-IN',
     'currency' => 'INR',
     'currency_symbol' => '₹',
-    'decimal_point' => '₹ ',
-    'thousands_sep' => '',
   ),
   'ur_PK' => 
   array (
@@ -7815,9 +6897,7 @@
     'tag_ietf' => 'ur-PK',
     'tag_original' => 'ur-PK',
     'currency' => 'PKR',
-    'currency_symbol' => 'PKRs',
-    'decimal_point' => 'PKRs',
-    'thousands_sep' => '',
+    'currency_symbol' => 'Rs',
   ),
   'uz' => 
   array (
@@ -7833,8 +6913,6 @@
     'tag_original' => 'uz',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'uz_Arab' => 
   array (
@@ -7850,8 +6928,6 @@
     'tag_original' => 'uz-Arab',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'uz_Arab_AF' => 
   array (
@@ -7867,8 +6943,6 @@
     'tag_original' => 'uz-Arab-AF',
     'currency' => 'AFN',
     'currency_symbol' => '؋',
-    'decimal_point' => '؋ ',
-    'thousands_sep' => '',
   ),
   'uz_Cyrl' => 
   array (
@@ -7884,8 +6958,6 @@
     'tag_original' => 'uz-Cyrl',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'uz_Cyrl_UZ' => 
   array (
@@ -7901,8 +6973,6 @@
     'tag_original' => 'uz-Cyrl-UZ',
     'currency' => 'UZS',
     'currency_symbol' => 'UZS',
-    'decimal_point' => 'UZS ',
-    'thousands_sep' => '',
   ),
   'uz_Latn' => 
   array (
@@ -7918,8 +6988,6 @@
     'tag_original' => 'uz-Latn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤ ',
-    'thousands_sep' => '',
   ),
   'uz_Latn_UZ' => 
   array (
@@ -7935,8 +7003,6 @@
     'tag_original' => 'uz-Latn-UZ',
     'currency' => 'UZS',
     'currency_symbol' => 'UZS',
-    'decimal_point' => 'UZS ',
-    'thousands_sep' => '',
   ),
   'vai' => 
   array (
@@ -7952,8 +7018,6 @@
     'tag_original' => 'vai',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'vai_Latn' => 
   array (
@@ -7969,8 +7033,6 @@
     'tag_original' => 'vai-Latn',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'vai_Latn_LR' => 
   array (
@@ -7986,8 +7048,6 @@
     'tag_original' => 'vai-Latn-LR',
     'currency' => 'LRD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'vai_Vaii' => 
   array (
@@ -8003,8 +7063,6 @@
     'tag_original' => 'vai-Vaii',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'vai_Vaii_LR' => 
   array (
@@ -8020,8 +7078,6 @@
     'tag_original' => 'vai-Vaii-LR',
     'currency' => 'LRD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'vi' => 
   array (
@@ -8037,8 +7093,6 @@
     'tag_original' => 'vi',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'vi_VN' => 
   array (
@@ -8054,8 +7108,6 @@
     'tag_original' => 'vi-VN',
     'currency' => 'VND',
     'currency_symbol' => '₫',
-    'decimal_point' => '',
-    'thousands_sep' => ' ₫',
   ),
   'vun' => 
   array (
@@ -8071,8 +7123,6 @@
     'tag_original' => 'vun',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'vun_TZ' => 
   array (
@@ -8088,8 +7138,6 @@
     'tag_original' => 'vun-TZ',
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
-    'decimal_point' => 'TSh',
-    'thousands_sep' => '',
   ),
   'xog' => 
   array (
@@ -8105,8 +7153,6 @@
     'tag_original' => 'xog',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'xog_UG' => 
   array (
@@ -8122,8 +7168,6 @@
     'tag_original' => 'xog-UG',
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
-    'decimal_point' => '',
-    'thousands_sep' => ' USh',
   ),
   'yav' => 
   array (
@@ -8139,8 +7183,6 @@
     'tag_original' => 'yav',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '',
-    'thousands_sep' => ' ¤',
   ),
   'yav_CM' => 
   array (
@@ -8156,8 +7198,6 @@
     'tag_original' => 'yav-CM',
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
-    'decimal_point' => '',
-    'thousands_sep' => ' FCFA',
   ),
   'yo' => 
   array (
@@ -8173,8 +7213,6 @@
     'tag_original' => 'yo',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'yo_NG' => 
   array (
@@ -8190,8 +7228,6 @@
     'tag_original' => 'yo-NG',
     'currency' => 'NGN',
     'currency_symbol' => '₦',
-    'decimal_point' => '₦',
-    'thousands_sep' => '',
   ),
   'zh' => 
   array (
@@ -8207,8 +7243,6 @@
     'tag_original' => 'zh',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'zh_Hans' => 
   array (
@@ -8224,8 +7258,6 @@
     'tag_original' => 'zh-Hans',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'zh_Hans_CN' => 
   array (
@@ -8241,8 +7273,6 @@
     'tag_original' => 'zh-Hans-CN',
     'currency' => 'CNY',
     'currency_symbol' => '￥',
-    'decimal_point' => '￥',
-    'thousands_sep' => '',
   ),
   'zh_Hans_HK' => 
   array (
@@ -8258,8 +7288,6 @@
     'tag_original' => 'zh-Hans-HK',
     'currency' => 'HKD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'zh_Hans_MO' => 
   array (
@@ -8274,9 +7302,7 @@
     'tag_ietf' => 'zh-Hans-MO',
     'tag_original' => 'zh-Hans-MO',
     'currency' => 'MOP',
-    'currency_symbol' => 'MOP',
-    'decimal_point' => 'MOP',
-    'thousands_sep' => '',
+    'currency_symbol' => 'MOP$',
   ),
   'zh_Hans_SG' => 
   array (
@@ -8291,9 +7317,7 @@
     'tag_ietf' => 'zh-Hans-SG',
     'tag_original' => 'zh-Hans-SG',
     'currency' => 'SGD',
-    'currency_symbol' => 'SGD',
-    'decimal_point' => 'SGD',
-    'thousands_sep' => '',
+    'currency_symbol' => '$',
   ),
   'zh_Hant' => 
   array (
@@ -8309,8 +7333,6 @@
     'tag_original' => 'zh-Hant',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'zh_Hant_HK' => 
   array (
@@ -8326,8 +7348,6 @@
     'tag_original' => 'zh-Hant-HK',
     'currency' => 'HKD',
     'currency_symbol' => '$',
-    'decimal_point' => '$',
-    'thousands_sep' => '',
   ),
   'zh_Hant_MO' => 
   array (
@@ -8342,9 +7362,7 @@
     'tag_ietf' => 'zh-Hant-MO',
     'tag_original' => 'zh-Hant-MO',
     'currency' => 'MOP',
-    'currency_symbol' => 'MOP',
-    'decimal_point' => 'MOP',
-    'thousands_sep' => '',
+    'currency_symbol' => 'MOP$',
   ),
   'zh_Hant_TW' => 
   array (
@@ -8360,8 +7378,6 @@
     'tag_original' => 'zh-Hant-TW',
     'currency' => 'TWD',
     'currency_symbol' => 'NT$',
-    'decimal_point' => 'NT$',
-    'thousands_sep' => '',
   ),
   'zu' => 
   array (
@@ -8377,8 +7393,6 @@
     'tag_original' => 'zu',
     'currency' => '',
     'currency_symbol' => '¤',
-    'decimal_point' => '¤',
-    'thousands_sep' => '',
   ),
   'zu_ZA' => 
   array (
@@ -8394,7 +7408,5 @@
     'tag_original' => 'zu-ZA',
     'currency' => 'ZAR',
     'currency_symbol' => 'R',
-    'decimal_point' => 'R',
-    'thousands_sep' => '',
   ),
 );
