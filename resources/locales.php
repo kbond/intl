@@ -1,5 +1,5 @@
 <?php return array (
-  'af' => 
+  'af' =>
   array (
     'country' => '',
     'country3' => '',
@@ -14,7 +14,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'af_NA' => 
+  'af_NA' =>
   array (
     'country' => 'NA',
     'country3' => 'NAM',
@@ -29,7 +29,7 @@
     'currency' => 'NAD',
     'currency_symbol' => '$',
   ),
-  'af_ZA' => 
+  'af_ZA' =>
   array (
     'country' => 'ZA',
     'country3' => 'ZAF',
@@ -44,7 +44,7 @@
     'currency' => 'ZAR',
     'currency_symbol' => 'R',
   ),
-  'agq' => 
+  'agq' =>
   array (
     'country' => '',
     'country3' => '',
@@ -59,7 +59,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'agq_CM' => 
+  'agq_CM' =>
   array (
     'country' => 'CM',
     'country3' => 'CMR',
@@ -74,7 +74,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'ak' => 
+  'ak' =>
   array (
     'country' => '',
     'country3' => '',
@@ -89,7 +89,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ak_GH' => 
+  'ak_GH' =>
   array (
     'country' => 'GH',
     'country3' => 'GHA',
@@ -104,7 +104,7 @@
     'currency' => 'GHS',
     'currency_symbol' => 'GH₵',
   ),
-  'am' => 
+  'am' =>
   array (
     'country' => '',
     'country3' => '',
@@ -119,7 +119,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'am_ET' => 
+  'am_ET' =>
   array (
     'country' => 'ET',
     'country3' => 'ETH',
@@ -134,7 +134,7 @@
     'currency' => 'ETB',
     'currency_symbol' => 'ብር',
   ),
-  'ar' => 
+  'ar' =>
   array (
     'country' => '',
     'country3' => '',
@@ -149,7 +149,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ar_001' => 
+  'ar_001' =>
   array (
     'country' => '001',
     'country3' => '',
@@ -164,7 +164,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ar_AE' => 
+  'ar_AE' =>
   array (
     'country' => 'AE',
     'country3' => 'ARE',
@@ -179,7 +179,7 @@
     'currency' => 'AED',
     'currency_symbol' => 'د.إ.‏',
   ),
-  'ar_BH' => 
+  'ar_BH' =>
   array (
     'country' => 'BH',
     'country3' => 'BHR',
@@ -194,7 +194,7 @@
     'currency' => 'BHD',
     'currency_symbol' => 'د.ب.‏',
   ),
-  'ar_DZ' => 
+  'ar_DZ' =>
   array (
     'country' => 'DZ',
     'country3' => 'DZA',
@@ -209,7 +209,7 @@
     'currency' => 'DZD',
     'currency_symbol' => 'د.ج.‏',
   ),
-  'ar_EG' => 
+  'ar_EG' =>
   array (
     'country' => 'EG',
     'country3' => 'EGY',
@@ -224,7 +224,7 @@
     'currency' => 'EGP',
     'currency_symbol' => 'ج.م.‏',
   ),
-  'ar_IQ' => 
+  'ar_IQ' =>
   array (
     'country' => 'IQ',
     'country3' => 'IRQ',
@@ -239,7 +239,7 @@
     'currency' => 'IQD',
     'currency_symbol' => 'د.ع.‏',
   ),
-  'ar_JO' => 
+  'ar_JO' =>
   array (
     'country' => 'JO',
     'country3' => 'JOR',
@@ -254,7 +254,7 @@
     'currency' => 'JOD',
     'currency_symbol' => 'د.أ.‏',
   ),
-  'ar_KW' => 
+  'ar_KW' =>
   array (
     'country' => 'KW',
     'country3' => 'KWT',
@@ -269,7 +269,7 @@
     'currency' => 'KWD',
     'currency_symbol' => 'د.ك.‏',
   ),
-  'ar_LB' => 
+  'ar_LB' =>
   array (
     'country' => 'LB',
     'country3' => 'LBN',
@@ -284,7 +284,7 @@
     'currency' => 'LBP',
     'currency_symbol' => 'ل.ل.‏',
   ),
-  'ar_LY' => 
+  'ar_LY' =>
   array (
     'country' => 'LY',
     'country3' => 'LBY',
@@ -299,7 +299,7 @@
     'currency' => 'LYD',
     'currency_symbol' => 'د.ل.‏',
   ),
-  'ar_MA' => 
+  'ar_MA' =>
   array (
     'country' => 'MA',
     'country3' => 'MAR',
@@ -314,7 +314,7 @@
     'currency' => 'MAD',
     'currency_symbol' => 'د.م.‏',
   ),
-  'ar_OM' => 
+  'ar_OM' =>
   array (
     'country' => 'OM',
     'country3' => 'OMN',
@@ -329,7 +329,7 @@
     'currency' => 'OMR',
     'currency_symbol' => 'ر.ع.‏',
   ),
-  'ar_QA' => 
+  'ar_QA' =>
   array (
     'country' => 'QA',
     'country3' => 'QAT',
@@ -344,7 +344,7 @@
     'currency' => 'QAR',
     'currency_symbol' => 'ر.ق.‏',
   ),
-  'ar_SA' => 
+  'ar_SA' =>
   array (
     'country' => 'SA',
     'country3' => 'SAU',
@@ -359,7 +359,7 @@
     'currency' => 'SAR',
     'currency_symbol' => 'ر.س.‏',
   ),
-  'ar_SD' => 
+  'ar_SD' =>
   array (
     'country' => 'SD',
     'country3' => 'SDN',
@@ -374,7 +374,7 @@
     'currency' => 'SDG',
     'currency_symbol' => 'SDG',
   ),
-  'ar_SY' => 
+  'ar_SY' =>
   array (
     'country' => 'SY',
     'country3' => 'SYR',
@@ -389,7 +389,7 @@
     'currency' => 'SYP',
     'currency_symbol' => 'ل.س.‏',
   ),
-  'ar_TN' => 
+  'ar_TN' =>
   array (
     'country' => 'TN',
     'country3' => 'TUN',
@@ -404,7 +404,7 @@
     'currency' => 'TND',
     'currency_symbol' => 'د.ت.‏',
   ),
-  'ar_YE' => 
+  'ar_YE' =>
   array (
     'country' => 'YE',
     'country3' => 'YEM',
@@ -419,7 +419,7 @@
     'currency' => 'YER',
     'currency_symbol' => 'ر.ي.‏',
   ),
-  'as' => 
+  'as' =>
   array (
     'country' => '',
     'country3' => '',
@@ -434,7 +434,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'as_IN' => 
+  'as_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -449,7 +449,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'asa' => 
+  'asa' =>
   array (
     'country' => '',
     'country3' => '',
@@ -464,7 +464,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'asa_TZ' => 
+  'asa_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -479,7 +479,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'az' => 
+  'az' =>
   array (
     'country' => '',
     'country3' => '',
@@ -494,7 +494,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'az_Cyrl' => 
+  'az_Cyrl' =>
   array (
     'country' => '',
     'country3' => '',
@@ -509,7 +509,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'az_Cyrl_AZ' => 
+  'az_Cyrl_AZ' =>
   array (
     'country' => 'AZ',
     'country3' => 'AZE',
@@ -524,7 +524,7 @@
     'currency' => 'AZN',
     'currency_symbol' => 'ман.',
   ),
-  'az_Latn' => 
+  'az_Latn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -539,7 +539,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'az_Latn_AZ' => 
+  'az_Latn_AZ' =>
   array (
     'country' => 'AZ',
     'country3' => 'AZE',
@@ -554,7 +554,7 @@
     'currency' => 'AZN',
     'currency_symbol' => 'man.',
   ),
-  'bas' => 
+  'bas' =>
   array (
     'country' => '',
     'country3' => '',
@@ -569,7 +569,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'bas_CM' => 
+  'bas_CM' =>
   array (
     'country' => 'CM',
     'country3' => 'CMR',
@@ -584,7 +584,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'be' => 
+  'be' =>
   array (
     'country' => '',
     'country3' => '',
@@ -599,7 +599,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'be_BY' => 
+  'be_BY' =>
   array (
     'country' => 'BY',
     'country3' => 'BLR',
@@ -614,7 +614,7 @@
     'currency' => 'BYR',
     'currency_symbol' => 'р.',
   ),
-  'bem' => 
+  'bem' =>
   array (
     'country' => '',
     'country3' => '',
@@ -629,7 +629,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'bem_ZM' => 
+  'bem_ZM' =>
   array (
     'country' => 'ZM',
     'country3' => 'ZMB',
@@ -644,7 +644,7 @@
     'currency' => 'ZMW',
     'currency_symbol' => 'KR',
   ),
-  'bez' => 
+  'bez' =>
   array (
     'country' => '',
     'country3' => '',
@@ -659,7 +659,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'bez_TZ' => 
+  'bez_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -674,7 +674,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'bg' => 
+  'bg' =>
   array (
     'country' => '',
     'country3' => '',
@@ -689,7 +689,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'bg_BG' => 
+  'bg_BG' =>
   array (
     'country' => 'BG',
     'country3' => 'BGR',
@@ -704,7 +704,7 @@
     'currency' => 'BGN',
     'currency_symbol' => 'лв.',
   ),
-  'bm' => 
+  'bm' =>
   array (
     'country' => '',
     'country3' => '',
@@ -719,7 +719,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'bm_ML' => 
+  'bm_ML' =>
   array (
     'country' => 'ML',
     'country3' => 'MLI',
@@ -734,7 +734,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'bn' => 
+  'bn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -749,7 +749,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'bn_BD' => 
+  'bn_BD' =>
   array (
     'country' => 'BD',
     'country3' => 'BGD',
@@ -764,7 +764,7 @@
     'currency' => 'BDT',
     'currency_symbol' => '৳',
   ),
-  'bn_IN' => 
+  'bn_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -779,7 +779,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'bo' => 
+  'bo' =>
   array (
     'country' => '',
     'country3' => '',
@@ -794,7 +794,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'bo_CN' => 
+  'bo_CN' =>
   array (
     'country' => 'CN',
     'country3' => 'CHN',
@@ -809,7 +809,7 @@
     'currency' => 'CNY',
     'currency_symbol' => '¥',
   ),
-  'bo_IN' => 
+  'bo_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -824,7 +824,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'br' => 
+  'br' =>
   array (
     'country' => '',
     'country3' => '',
@@ -839,7 +839,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'br_FR' => 
+  'br_FR' =>
   array (
     'country' => 'FR',
     'country3' => 'FRA',
@@ -854,7 +854,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'brx' => 
+  'brx' =>
   array (
     'country' => '',
     'country3' => '',
@@ -869,7 +869,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'brx_IN' => 
+  'brx_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -884,7 +884,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'bs' => 
+  'bs' =>
   array (
     'country' => '',
     'country3' => '',
@@ -899,7 +899,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'bs_BA' => 
+  'bs_BA' =>
   array (
     'country' => 'BA',
     'country3' => 'BIH',
@@ -914,7 +914,7 @@
     'currency' => 'BAM',
     'currency_symbol' => 'KM',
   ),
-  'ca' => 
+  'ca' =>
   array (
     'country' => '',
     'country3' => '',
@@ -929,7 +929,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ca_ES' => 
+  'ca_ES' =>
   array (
     'country' => 'ES',
     'country3' => 'ESP',
@@ -944,7 +944,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'cgg' => 
+  'cgg' =>
   array (
     'country' => '',
     'country3' => '',
@@ -959,7 +959,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'cgg_UG' => 
+  'cgg_UG' =>
   array (
     'country' => 'UG',
     'country3' => 'UGA',
@@ -974,7 +974,7 @@
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
   ),
-  'chr' => 
+  'chr' =>
   array (
     'country' => '',
     'country3' => '',
@@ -989,7 +989,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'chr_US' => 
+  'chr_US' =>
   array (
     'country' => 'US',
     'country3' => 'USA',
@@ -1004,7 +1004,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'cs' => 
+  'cs' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1019,7 +1019,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'cs_CZ' => 
+  'cs_CZ' =>
   array (
     'country' => 'CZ',
     'country3' => 'CZE',
@@ -1034,7 +1034,7 @@
     'currency' => 'CZK',
     'currency_symbol' => 'Kč',
   ),
-  'cy' => 
+  'cy' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1049,7 +1049,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'cy_GB' => 
+  'cy_GB' =>
   array (
     'country' => 'GB',
     'country3' => 'GBR',
@@ -1064,7 +1064,7 @@
     'currency' => 'GBP',
     'currency_symbol' => '£',
   ),
-  'da' => 
+  'da' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1079,7 +1079,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'da_DK' => 
+  'da_DK' =>
   array (
     'country' => 'DK',
     'country3' => 'DNK',
@@ -1094,7 +1094,7 @@
     'currency' => 'DKK',
     'currency_symbol' => 'kr',
   ),
-  'dav' => 
+  'dav' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1109,7 +1109,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'dav_KE' => 
+  'dav_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -1124,7 +1124,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'de' => 
+  'de' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1139,7 +1139,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'de_AT' => 
+  'de_AT' =>
   array (
     'country' => 'AT',
     'country3' => 'AUT',
@@ -1154,7 +1154,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'de_BE' => 
+  'de_BE' =>
   array (
     'country' => 'BE',
     'country3' => 'BEL',
@@ -1169,7 +1169,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'de_CH' => 
+  'de_CH' =>
   array (
     'country' => 'CH',
     'country3' => 'CHE',
@@ -1184,7 +1184,7 @@
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
   ),
-  'de_DE' => 
+  'de_DE' =>
   array (
     'country' => 'DE',
     'country3' => 'DEU',
@@ -1199,7 +1199,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'de_LI' => 
+  'de_LI' =>
   array (
     'country' => 'LI',
     'country3' => 'LIE',
@@ -1214,7 +1214,7 @@
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
   ),
-  'de_LU' => 
+  'de_LU' =>
   array (
     'country' => 'LU',
     'country3' => 'LUX',
@@ -1229,7 +1229,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'dje' => 
+  'dje' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1244,7 +1244,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'dje_NE' => 
+  'dje_NE' =>
   array (
     'country' => 'NE',
     'country3' => 'NER',
@@ -1259,7 +1259,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'dua' => 
+  'dua' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1274,7 +1274,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'dua_CM' => 
+  'dua_CM' =>
   array (
     'country' => 'CM',
     'country3' => 'CMR',
@@ -1289,7 +1289,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'dyo' => 
+  'dyo' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1304,7 +1304,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'dyo_SN' => 
+  'dyo_SN' =>
   array (
     'country' => 'SN',
     'country3' => 'SEN',
@@ -1319,7 +1319,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'ebu' => 
+  'ebu' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1334,7 +1334,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ebu_KE' => 
+  'ebu_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -1349,7 +1349,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'ee' => 
+  'ee' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1364,7 +1364,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ee_GH' => 
+  'ee_GH' =>
   array (
     'country' => 'GH',
     'country3' => 'GHA',
@@ -1379,7 +1379,7 @@
     'currency' => 'GHS',
     'currency_symbol' => 'GH₵',
   ),
-  'ee_TG' => 
+  'ee_TG' =>
   array (
     'country' => 'TG',
     'country3' => 'TGO',
@@ -1394,7 +1394,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'el' => 
+  'el' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1409,7 +1409,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'el_CY' => 
+  'el_CY' =>
   array (
     'country' => 'CY',
     'country3' => 'CYP',
@@ -1424,7 +1424,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'el_GR' => 
+  'el_GR' =>
   array (
     'country' => 'GR',
     'country3' => 'GRC',
@@ -1439,7 +1439,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'en' => 
+  'en' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1454,7 +1454,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'en_AS' => 
+  'en_AS' =>
   array (
     'country' => 'AS',
     'country3' => 'ASM',
@@ -1469,7 +1469,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'en_AU' => 
+  'en_AU' =>
   array (
     'country' => 'AU',
     'country3' => 'AUS',
@@ -1484,7 +1484,7 @@
     'currency' => 'AUD',
     'currency_symbol' => '$',
   ),
-  'en_BB' => 
+  'en_BB' =>
   array (
     'country' => 'BB',
     'country3' => 'BRB',
@@ -1499,7 +1499,7 @@
     'currency' => 'BBD',
     'currency_symbol' => '$',
   ),
-  'en_BE' => 
+  'en_BE' =>
   array (
     'country' => 'BE',
     'country3' => 'BEL',
@@ -1514,7 +1514,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'en_BM' => 
+  'en_BM' =>
   array (
     'country' => 'BM',
     'country3' => 'BMU',
@@ -1529,7 +1529,7 @@
     'currency' => 'BMD',
     'currency_symbol' => '$',
   ),
-  'en_BW' => 
+  'en_BW' =>
   array (
     'country' => 'BW',
     'country3' => 'BWA',
@@ -1544,7 +1544,7 @@
     'currency' => 'BWP',
     'currency_symbol' => 'P',
   ),
-  'en_BZ' => 
+  'en_BZ' =>
   array (
     'country' => 'BZ',
     'country3' => 'BLZ',
@@ -1559,7 +1559,7 @@
     'currency' => 'BZD',
     'currency_symbol' => '$',
   ),
-  'en_CA' => 
+  'en_CA' =>
   array (
     'country' => 'CA',
     'country3' => 'CAN',
@@ -1574,7 +1574,7 @@
     'currency' => 'CAD',
     'currency_symbol' => '$',
   ),
-  'en_GB' => 
+  'en_GB' =>
   array (
     'country' => 'GB',
     'country3' => 'GBR',
@@ -1589,7 +1589,7 @@
     'currency' => 'GBP',
     'currency_symbol' => '£',
   ),
-  'en_GU' => 
+  'en_GU' =>
   array (
     'country' => 'GU',
     'country3' => 'GUM',
@@ -1604,7 +1604,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'en_GY' => 
+  'en_GY' =>
   array (
     'country' => 'GY',
     'country3' => 'GUY',
@@ -1619,7 +1619,7 @@
     'currency' => 'GYD',
     'currency_symbol' => '$',
   ),
-  'en_HK' => 
+  'en_HK' =>
   array (
     'country' => 'HK',
     'country3' => 'HKG',
@@ -1634,7 +1634,7 @@
     'currency' => 'HKD',
     'currency_symbol' => '$',
   ),
-  'en_IE' => 
+  'en_IE' =>
   array (
     'country' => 'IE',
     'country3' => 'IRL',
@@ -1649,7 +1649,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'en_IN' => 
+  'en_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -1664,7 +1664,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'en_JM' => 
+  'en_JM' =>
   array (
     'country' => 'JM',
     'country3' => 'JAM',
@@ -1679,7 +1679,7 @@
     'currency' => 'JMD',
     'currency_symbol' => '$',
   ),
-  'en_MH' => 
+  'en_MH' =>
   array (
     'country' => 'MH',
     'country3' => 'MHL',
@@ -1694,7 +1694,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'en_MP' => 
+  'en_MP' =>
   array (
     'country' => 'MP',
     'country3' => 'MNP',
@@ -1709,7 +1709,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'en_MT' => 
+  'en_MT' =>
   array (
     'country' => 'MT',
     'country3' => 'MLT',
@@ -1724,7 +1724,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'en_MU' => 
+  'en_MU' =>
   array (
     'country' => 'MU',
     'country3' => 'MUS',
@@ -1739,7 +1739,7 @@
     'currency' => 'MUR',
     'currency_symbol' => 'Rs',
   ),
-  'en_NA' => 
+  'en_NA' =>
   array (
     'country' => 'NA',
     'country3' => 'NAM',
@@ -1754,7 +1754,7 @@
     'currency' => 'NAD',
     'currency_symbol' => '$',
   ),
-  'en_NZ' => 
+  'en_NZ' =>
   array (
     'country' => 'NZ',
     'country3' => 'NZL',
@@ -1769,7 +1769,7 @@
     'currency' => 'NZD',
     'currency_symbol' => '$',
   ),
-  'en_PH' => 
+  'en_PH' =>
   array (
     'country' => 'PH',
     'country3' => 'PHL',
@@ -1784,7 +1784,7 @@
     'currency' => 'PHP',
     'currency_symbol' => '₱',
   ),
-  'en_PK' => 
+  'en_PK' =>
   array (
     'country' => 'PK',
     'country3' => 'PAK',
@@ -1799,7 +1799,7 @@
     'currency' => 'PKR',
     'currency_symbol' => 'Rs',
   ),
-  'en_SG' => 
+  'en_SG' =>
   array (
     'country' => 'SG',
     'country3' => 'SGP',
@@ -1814,7 +1814,7 @@
     'currency' => 'SGD',
     'currency_symbol' => '$',
   ),
-  'en_TT' => 
+  'en_TT' =>
   array (
     'country' => 'TT',
     'country3' => 'TTO',
@@ -1829,7 +1829,7 @@
     'currency' => 'TTD',
     'currency_symbol' => '$',
   ),
-  'en_UM' => 
+  'en_UM' =>
   array (
     'country' => 'UM',
     'country3' => 'UMI',
@@ -1844,7 +1844,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'en_US' => 
+  'en_US' =>
   array (
     'country' => 'US',
     'country3' => 'USA',
@@ -1859,7 +1859,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'en_US_POSIX' => 
+  'en_US_POSIX' =>
   array (
     'country' => 'US',
     'country3' => 'USA',
@@ -1874,7 +1874,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'en_VI' => 
+  'en_VI' =>
   array (
     'country' => 'VI',
     'country3' => 'VIR',
@@ -1889,7 +1889,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'en_ZA' => 
+  'en_ZA' =>
   array (
     'country' => 'ZA',
     'country3' => 'ZAF',
@@ -1904,7 +1904,7 @@
     'currency' => 'ZAR',
     'currency_symbol' => 'R',
   ),
-  'en_ZW' => 
+  'en_ZW' =>
   array (
     'country' => 'ZW',
     'country3' => 'ZWE',
@@ -1919,7 +1919,7 @@
     'currency' => 'USD',
     'currency_symbol' => 'US$',
   ),
-  'eo' => 
+  'eo' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1934,7 +1934,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'es' => 
+  'es' =>
   array (
     'country' => '',
     'country3' => '',
@@ -1949,7 +1949,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'es_419' => 
+  'es_419' =>
   array (
     'country' => '419',
     'country3' => '',
@@ -1964,7 +1964,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'es_AR' => 
+  'es_AR' =>
   array (
     'country' => 'AR',
     'country3' => 'ARG',
@@ -1979,7 +1979,7 @@
     'currency' => 'ARS',
     'currency_symbol' => '$',
   ),
-  'es_BO' => 
+  'es_BO' =>
   array (
     'country' => 'BO',
     'country3' => 'BOL',
@@ -1994,7 +1994,7 @@
     'currency' => 'BOB',
     'currency_symbol' => 'Bs',
   ),
-  'es_CL' => 
+  'es_CL' =>
   array (
     'country' => 'CL',
     'country3' => 'CHL',
@@ -2009,7 +2009,7 @@
     'currency' => 'CLP',
     'currency_symbol' => '$',
   ),
-  'es_CO' => 
+  'es_CO' =>
   array (
     'country' => 'CO',
     'country3' => 'COL',
@@ -2024,7 +2024,7 @@
     'currency' => 'COP',
     'currency_symbol' => '$',
   ),
-  'es_CR' => 
+  'es_CR' =>
   array (
     'country' => 'CR',
     'country3' => 'CRI',
@@ -2039,7 +2039,7 @@
     'currency' => 'CRC',
     'currency_symbol' => '₡',
   ),
-  'es_DO' => 
+  'es_DO' =>
   array (
     'country' => 'DO',
     'country3' => 'DOM',
@@ -2054,7 +2054,7 @@
     'currency' => 'DOP',
     'currency_symbol' => '$',
   ),
-  'es_EC' => 
+  'es_EC' =>
   array (
     'country' => 'EC',
     'country3' => 'ECU',
@@ -2069,7 +2069,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'es_ES' => 
+  'es_ES' =>
   array (
     'country' => 'ES',
     'country3' => 'ESP',
@@ -2084,7 +2084,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'es_GQ' => 
+  'es_GQ' =>
   array (
     'country' => 'GQ',
     'country3' => 'GNQ',
@@ -2099,7 +2099,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'es_GT' => 
+  'es_GT' =>
   array (
     'country' => 'GT',
     'country3' => 'GTM',
@@ -2114,7 +2114,7 @@
     'currency' => 'GTQ',
     'currency_symbol' => 'Q',
   ),
-  'es_HN' => 
+  'es_HN' =>
   array (
     'country' => 'HN',
     'country3' => 'HND',
@@ -2129,7 +2129,7 @@
     'currency' => 'HNL',
     'currency_symbol' => 'L',
   ),
-  'es_MX' => 
+  'es_MX' =>
   array (
     'country' => 'MX',
     'country3' => 'MEX',
@@ -2144,7 +2144,7 @@
     'currency' => 'MXN',
     'currency_symbol' => '$',
   ),
-  'es_NI' => 
+  'es_NI' =>
   array (
     'country' => 'NI',
     'country3' => 'NIC',
@@ -2159,7 +2159,7 @@
     'currency' => 'NIO',
     'currency_symbol' => 'C$',
   ),
-  'es_PA' => 
+  'es_PA' =>
   array (
     'country' => 'PA',
     'country3' => 'PAN',
@@ -2174,7 +2174,7 @@
     'currency' => 'PAB',
     'currency_symbol' => 'B/.',
   ),
-  'es_PE' => 
+  'es_PE' =>
   array (
     'country' => 'PE',
     'country3' => 'PER',
@@ -2189,7 +2189,7 @@
     'currency' => 'PEN',
     'currency_symbol' => 'S/.',
   ),
-  'es_PR' => 
+  'es_PR' =>
   array (
     'country' => 'PR',
     'country3' => 'PRI',
@@ -2204,7 +2204,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'es_PY' => 
+  'es_PY' =>
   array (
     'country' => 'PY',
     'country3' => 'PRY',
@@ -2219,7 +2219,7 @@
     'currency' => 'PYG',
     'currency_symbol' => '₲',
   ),
-  'es_SV' => 
+  'es_SV' =>
   array (
     'country' => 'SV',
     'country3' => 'SLV',
@@ -2234,7 +2234,7 @@
     'currency' => 'USD',
     'currency_symbol' => 'US$',
   ),
-  'es_US' => 
+  'es_US' =>
   array (
     'country' => 'US',
     'country3' => 'USA',
@@ -2249,7 +2249,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'es_UY' => 
+  'es_UY' =>
   array (
     'country' => 'UY',
     'country3' => 'URY',
@@ -2264,7 +2264,7 @@
     'currency' => 'UYU',
     'currency_symbol' => '$',
   ),
-  'es_VE' => 
+  'es_VE' =>
   array (
     'country' => 'VE',
     'country3' => 'VEN',
@@ -2279,7 +2279,7 @@
     'currency' => 'VEF',
     'currency_symbol' => 'Bs.',
   ),
-  'et' => 
+  'et' =>
   array (
     'country' => '',
     'country3' => '',
@@ -2294,7 +2294,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'et_EE' => 
+  'et_EE' =>
   array (
     'country' => 'EE',
     'country3' => 'EST',
@@ -2309,7 +2309,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'eu' => 
+  'eu' =>
   array (
     'country' => '',
     'country3' => '',
@@ -2324,7 +2324,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'eu_ES' => 
+  'eu_ES' =>
   array (
     'country' => 'ES',
     'country3' => 'ESP',
@@ -2339,7 +2339,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'ewo' => 
+  'ewo' =>
   array (
     'country' => '',
     'country3' => '',
@@ -2354,7 +2354,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ewo_CM' => 
+  'ewo_CM' =>
   array (
     'country' => 'CM',
     'country3' => 'CMR',
@@ -2369,7 +2369,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'fa' => 
+  'fa' =>
   array (
     'country' => '',
     'country3' => '',
@@ -2384,7 +2384,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'fa_AF' => 
+  'fa_AF' =>
   array (
     'country' => 'AF',
     'country3' => 'AFG',
@@ -2399,7 +2399,7 @@
     'currency' => 'AFN',
     'currency_symbol' => '؋',
   ),
-  'fa_IR' => 
+  'fa_IR' =>
   array (
     'country' => 'IR',
     'country3' => 'IRN',
@@ -2414,7 +2414,7 @@
     'currency' => 'IRR',
     'currency_symbol' => '﷼',
   ),
-  'ff' => 
+  'ff' =>
   array (
     'country' => '',
     'country3' => '',
@@ -2429,7 +2429,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ff_SN' => 
+  'ff_SN' =>
   array (
     'country' => 'SN',
     'country3' => 'SEN',
@@ -2444,7 +2444,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'fi' => 
+  'fi' =>
   array (
     'country' => '',
     'country3' => '',
@@ -2459,7 +2459,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'fi_FI' => 
+  'fi_FI' =>
   array (
     'country' => 'FI',
     'country3' => 'FIN',
@@ -2474,7 +2474,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fil' => 
+  'fil' =>
   array (
     'country' => '',
     'country3' => '',
@@ -2489,7 +2489,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'fil_PH' => 
+  'fil_PH' =>
   array (
     'country' => 'PH',
     'country3' => 'PHL',
@@ -2504,7 +2504,7 @@
     'currency' => 'PHP',
     'currency_symbol' => '₱',
   ),
-  'fo' => 
+  'fo' =>
   array (
     'country' => '',
     'country3' => '',
@@ -2519,7 +2519,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'fo_FO' => 
+  'fo_FO' =>
   array (
     'country' => 'FO',
     'country3' => 'FRO',
@@ -2534,7 +2534,7 @@
     'currency' => 'DKK',
     'currency_symbol' => 'kr',
   ),
-  'fr' => 
+  'fr' =>
   array (
     'country' => '',
     'country3' => '',
@@ -2549,7 +2549,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'fr_BE' => 
+  'fr_BE' =>
   array (
     'country' => 'BE',
     'country3' => 'BEL',
@@ -2564,7 +2564,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_BF' => 
+  'fr_BF' =>
   array (
     'country' => 'BF',
     'country3' => 'BFA',
@@ -2579,7 +2579,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'fr_BI' => 
+  'fr_BI' =>
   array (
     'country' => 'BI',
     'country3' => 'BDI',
@@ -2594,7 +2594,7 @@
     'currency' => 'BIF',
     'currency_symbol' => 'FBu',
   ),
-  'fr_BJ' => 
+  'fr_BJ' =>
   array (
     'country' => 'BJ',
     'country3' => 'BEN',
@@ -2609,7 +2609,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'fr_BL' => 
+  'fr_BL' =>
   array (
     'country' => 'BL',
     'country3' => 'BLM',
@@ -2624,7 +2624,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_CA' => 
+  'fr_CA' =>
   array (
     'country' => 'CA',
     'country3' => 'CAN',
@@ -2639,7 +2639,7 @@
     'currency' => 'CAD',
     'currency_symbol' => '$',
   ),
-  'fr_CD' => 
+  'fr_CD' =>
   array (
     'country' => 'CD',
     'country3' => 'COD',
@@ -2654,7 +2654,7 @@
     'currency' => 'CDF',
     'currency_symbol' => 'FC',
   ),
-  'fr_CF' => 
+  'fr_CF' =>
   array (
     'country' => 'CF',
     'country3' => 'CAF',
@@ -2669,7 +2669,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'fr_CG' => 
+  'fr_CG' =>
   array (
     'country' => 'CG',
     'country3' => 'COG',
@@ -2684,7 +2684,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'fr_CH' => 
+  'fr_CH' =>
   array (
     'country' => 'CH',
     'country3' => 'CHE',
@@ -2699,7 +2699,7 @@
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
   ),
-  'fr_CI' => 
+  'fr_CI' =>
   array (
     'country' => 'CI',
     'country3' => 'CIV',
@@ -2714,7 +2714,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'fr_CM' => 
+  'fr_CM' =>
   array (
     'country' => 'CM',
     'country3' => 'CMR',
@@ -2729,7 +2729,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'fr_DJ' => 
+  'fr_DJ' =>
   array (
     'country' => 'DJ',
     'country3' => 'DJI',
@@ -2744,7 +2744,7 @@
     'currency' => 'DJF',
     'currency_symbol' => 'Fdj',
   ),
-  'fr_FR' => 
+  'fr_FR' =>
   array (
     'country' => 'FR',
     'country3' => 'FRA',
@@ -2759,7 +2759,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_GA' => 
+  'fr_GA' =>
   array (
     'country' => 'GA',
     'country3' => 'GAB',
@@ -2774,7 +2774,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'fr_GF' => 
+  'fr_GF' =>
   array (
     'country' => 'GF',
     'country3' => 'GUF',
@@ -2789,7 +2789,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_GN' => 
+  'fr_GN' =>
   array (
     'country' => 'GN',
     'country3' => 'GIN',
@@ -2804,7 +2804,7 @@
     'currency' => 'GNF',
     'currency_symbol' => 'FG',
   ),
-  'fr_GP' => 
+  'fr_GP' =>
   array (
     'country' => 'GP',
     'country3' => 'GLP',
@@ -2819,7 +2819,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_GQ' => 
+  'fr_GQ' =>
   array (
     'country' => 'GQ',
     'country3' => 'GNQ',
@@ -2834,7 +2834,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'fr_KM' => 
+  'fr_KM' =>
   array (
     'country' => 'KM',
     'country3' => 'COM',
@@ -2849,7 +2849,7 @@
     'currency' => 'KMF',
     'currency_symbol' => 'CF',
   ),
-  'fr_LU' => 
+  'fr_LU' =>
   array (
     'country' => 'LU',
     'country3' => 'LUX',
@@ -2864,7 +2864,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_MC' => 
+  'fr_MC' =>
   array (
     'country' => 'MC',
     'country3' => 'MCO',
@@ -2879,7 +2879,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_MF' => 
+  'fr_MF' =>
   array (
     'country' => 'MF',
     'country3' => 'MAF',
@@ -2894,7 +2894,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_MG' => 
+  'fr_MG' =>
   array (
     'country' => 'MG',
     'country3' => 'MDG',
@@ -2909,7 +2909,7 @@
     'currency' => 'MGA',
     'currency_symbol' => 'Ar',
   ),
-  'fr_ML' => 
+  'fr_ML' =>
   array (
     'country' => 'ML',
     'country3' => 'MLI',
@@ -2924,7 +2924,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'fr_MQ' => 
+  'fr_MQ' =>
   array (
     'country' => 'MQ',
     'country3' => 'MTQ',
@@ -2939,7 +2939,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_NE' => 
+  'fr_NE' =>
   array (
     'country' => 'NE',
     'country3' => 'NER',
@@ -2954,7 +2954,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'fr_RE' => 
+  'fr_RE' =>
   array (
     'country' => 'RE',
     'country3' => 'REU',
@@ -2969,7 +2969,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'fr_RW' => 
+  'fr_RW' =>
   array (
     'country' => 'RW',
     'country3' => 'RWA',
@@ -2984,7 +2984,7 @@
     'currency' => 'RWF',
     'currency_symbol' => 'RF',
   ),
-  'fr_SN' => 
+  'fr_SN' =>
   array (
     'country' => 'SN',
     'country3' => 'SEN',
@@ -2999,7 +2999,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'fr_TD' => 
+  'fr_TD' =>
   array (
     'country' => 'TD',
     'country3' => 'TCD',
@@ -3014,7 +3014,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'fr_TG' => 
+  'fr_TG' =>
   array (
     'country' => 'TG',
     'country3' => 'TGO',
@@ -3029,7 +3029,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'fr_YT' => 
+  'fr_YT' =>
   array (
     'country' => 'YT',
     'country3' => 'MYT',
@@ -3044,7 +3044,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'ga' => 
+  'ga' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3059,7 +3059,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ga_IE' => 
+  'ga_IE' =>
   array (
     'country' => 'IE',
     'country3' => 'IRL',
@@ -3074,7 +3074,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'gl' => 
+  'gl' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3089,7 +3089,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'gl_ES' => 
+  'gl_ES' =>
   array (
     'country' => 'ES',
     'country3' => 'ESP',
@@ -3104,7 +3104,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'gsw' => 
+  'gsw' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3119,7 +3119,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'gsw_CH' => 
+  'gsw_CH' =>
   array (
     'country' => 'CH',
     'country3' => 'CHE',
@@ -3134,7 +3134,7 @@
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
   ),
-  'gu' => 
+  'gu' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3149,7 +3149,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'gu_IN' => 
+  'gu_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -3164,7 +3164,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'guz' => 
+  'guz' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3179,7 +3179,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'guz_KE' => 
+  'guz_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -3194,7 +3194,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'gv' => 
+  'gv' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3209,7 +3209,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'gv_GB' => 
+  'gv_GB' =>
   array (
     'country' => 'GB',
     'country3' => 'GBR',
@@ -3224,7 +3224,7 @@
     'currency' => 'GBP',
     'currency_symbol' => '£',
   ),
-  'ha' => 
+  'ha' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3239,7 +3239,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ha_Latn' => 
+  'ha_Latn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3254,7 +3254,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ha_Latn_GH' => 
+  'ha_Latn_GH' =>
   array (
     'country' => 'GH',
     'country3' => 'GHA',
@@ -3269,7 +3269,7 @@
     'currency' => 'GHS',
     'currency_symbol' => 'GH₵',
   ),
-  'ha_Latn_NE' => 
+  'ha_Latn_NE' =>
   array (
     'country' => 'NE',
     'country3' => 'NER',
@@ -3284,7 +3284,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'ha_Latn_NG' => 
+  'ha_Latn_NG' =>
   array (
     'country' => 'NG',
     'country3' => 'NGA',
@@ -3299,7 +3299,7 @@
     'currency' => 'NGN',
     'currency_symbol' => '₦',
   ),
-  'haw' => 
+  'haw' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3314,7 +3314,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'haw_US' => 
+  'haw_US' =>
   array (
     'country' => 'US',
     'country3' => 'USA',
@@ -3329,7 +3329,7 @@
     'currency' => 'USD',
     'currency_symbol' => '$',
   ),
-  'he' => 
+  'he' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3344,7 +3344,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'he_IL' => 
+  'he_IL' =>
   array (
     'country' => 'IL',
     'country3' => 'ISR',
@@ -3359,7 +3359,7 @@
     'currency' => 'ILS',
     'currency_symbol' => '₪',
   ),
-  'hi' => 
+  'hi' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3374,7 +3374,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'hi_IN' => 
+  'hi_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -3389,7 +3389,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'hr' => 
+  'hr' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3404,7 +3404,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'hr_HR' => 
+  'hr_HR' =>
   array (
     'country' => 'HR',
     'country3' => 'HRV',
@@ -3419,7 +3419,7 @@
     'currency' => 'HRK',
     'currency_symbol' => 'kn',
   ),
-  'hu' => 
+  'hu' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3434,7 +3434,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'hu_HU' => 
+  'hu_HU' =>
   array (
     'country' => 'HU',
     'country3' => 'HUN',
@@ -3449,7 +3449,7 @@
     'currency' => 'HUF',
     'currency_symbol' => 'Ft',
   ),
-  'hy' => 
+  'hy' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3464,7 +3464,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'hy_AM' => 
+  'hy_AM' =>
   array (
     'country' => 'AM',
     'country3' => 'ARM',
@@ -3479,7 +3479,7 @@
     'currency' => 'AMD',
     'currency_symbol' => 'դր.',
   ),
-  'id' => 
+  'id' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3494,7 +3494,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'id_ID' => 
+  'id_ID' =>
   array (
     'country' => 'ID',
     'country3' => 'IDN',
@@ -3509,7 +3509,7 @@
     'currency' => 'IDR',
     'currency_symbol' => 'Rp',
   ),
-  'ig' => 
+  'ig' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3524,7 +3524,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ig_NG' => 
+  'ig_NG' =>
   array (
     'country' => 'NG',
     'country3' => 'NGA',
@@ -3539,7 +3539,7 @@
     'currency' => 'NGN',
     'currency_symbol' => '₦',
   ),
-  'ii' => 
+  'ii' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3554,7 +3554,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ii_CN' => 
+  'ii_CN' =>
   array (
     'country' => 'CN',
     'country3' => 'CHN',
@@ -3569,7 +3569,7 @@
     'currency' => 'CNY',
     'currency_symbol' => '¥',
   ),
-  'is' => 
+  'is' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3584,7 +3584,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'is_IS' => 
+  'is_IS' =>
   array (
     'country' => 'IS',
     'country3' => 'ISL',
@@ -3599,7 +3599,7 @@
     'currency' => 'ISK',
     'currency_symbol' => 'kr',
   ),
-  'it' => 
+  'it' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3614,7 +3614,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'it_CH' => 
+  'it_CH' =>
   array (
     'country' => 'CH',
     'country3' => 'CHE',
@@ -3629,7 +3629,7 @@
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
   ),
-  'it_IT' => 
+  'it_IT' =>
   array (
     'country' => 'IT',
     'country3' => 'ITA',
@@ -3644,7 +3644,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'ja' => 
+  'ja' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3659,7 +3659,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ja_JP' => 
+  'ja_JP' =>
   array (
     'country' => 'JP',
     'country3' => 'JPN',
@@ -3674,7 +3674,7 @@
     'currency' => 'JPY',
     'currency_symbol' => '￥',
   ),
-  'jmc' => 
+  'jmc' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3689,7 +3689,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'jmc_TZ' => 
+  'jmc_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -3704,7 +3704,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'ka' => 
+  'ka' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3719,7 +3719,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ka_GE' => 
+  'ka_GE' =>
   array (
     'country' => 'GE',
     'country3' => 'GEO',
@@ -3734,7 +3734,7 @@
     'currency' => 'GEL',
     'currency_symbol' => 'GEL',
   ),
-  'kab' => 
+  'kab' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3749,7 +3749,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kab_DZ' => 
+  'kab_DZ' =>
   array (
     'country' => 'DZ',
     'country3' => 'DZA',
@@ -3764,7 +3764,7 @@
     'currency' => 'DZD',
     'currency_symbol' => 'DA',
   ),
-  'kam' => 
+  'kam' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3779,7 +3779,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kam_KE' => 
+  'kam_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -3794,7 +3794,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'kde' => 
+  'kde' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3809,7 +3809,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kde_TZ' => 
+  'kde_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -3824,7 +3824,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'kea' => 
+  'kea' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3839,7 +3839,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kea_CV' => 
+  'kea_CV' =>
   array (
     'country' => 'CV',
     'country3' => 'CPV',
@@ -3854,7 +3854,7 @@
     'currency' => 'CVE',
     'currency_symbol' => 'CVE',
   ),
-  'khq' => 
+  'khq' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3869,7 +3869,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'khq_ML' => 
+  'khq_ML' =>
   array (
     'country' => 'ML',
     'country3' => 'MLI',
@@ -3884,7 +3884,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'ki' => 
+  'ki' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3899,7 +3899,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ki_KE' => 
+  'ki_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -3914,7 +3914,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'kk' => 
+  'kk' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3929,7 +3929,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kk_Cyrl' => 
+  'kk_Cyrl' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3944,7 +3944,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kk_Cyrl_KZ' => 
+  'kk_Cyrl_KZ' =>
   array (
     'country' => 'KZ',
     'country3' => 'KAZ',
@@ -3959,7 +3959,7 @@
     'currency' => 'KZT',
     'currency_symbol' => '₸',
   ),
-  'kl' => 
+  'kl' =>
   array (
     'country' => '',
     'country3' => '',
@@ -3974,7 +3974,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kl_GL' => 
+  'kl_GL' =>
   array (
     'country' => 'GL',
     'country3' => 'GRL',
@@ -3989,7 +3989,7 @@
     'currency' => 'DKK',
     'currency_symbol' => 'kr',
   ),
-  'kln' => 
+  'kln' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4004,7 +4004,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kln_KE' => 
+  'kln_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -4019,7 +4019,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'km' => 
+  'km' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4034,7 +4034,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'km_KH' => 
+  'km_KH' =>
   array (
     'country' => 'KH',
     'country3' => 'KHM',
@@ -4049,7 +4049,7 @@
     'currency' => 'KHR',
     'currency_symbol' => '៛',
   ),
-  'kn' => 
+  'kn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4064,7 +4064,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kn_IN' => 
+  'kn_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -4079,7 +4079,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'ko' => 
+  'ko' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4094,7 +4094,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ko_KR' => 
+  'ko_KR' =>
   array (
     'country' => 'KR',
     'country3' => 'KOR',
@@ -4109,7 +4109,7 @@
     'currency' => 'KRW',
     'currency_symbol' => '₩',
   ),
-  'kok' => 
+  'kok' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4124,7 +4124,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kok_IN' => 
+  'kok_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -4139,7 +4139,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'ksb' => 
+  'ksb' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4154,7 +4154,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ksb_TZ' => 
+  'ksb_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -4169,7 +4169,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'ksf' => 
+  'ksf' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4184,7 +4184,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ksf_CM' => 
+  'ksf_CM' =>
   array (
     'country' => 'CM',
     'country3' => 'CMR',
@@ -4199,7 +4199,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'kw' => 
+  'kw' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4214,7 +4214,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'kw_GB' => 
+  'kw_GB' =>
   array (
     'country' => 'GB',
     'country3' => 'GBR',
@@ -4229,7 +4229,7 @@
     'currency' => 'GBP',
     'currency_symbol' => '£',
   ),
-  'lag' => 
+  'lag' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4244,7 +4244,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'lag_TZ' => 
+  'lag_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -4259,7 +4259,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'lg' => 
+  'lg' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4274,7 +4274,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'lg_UG' => 
+  'lg_UG' =>
   array (
     'country' => 'UG',
     'country3' => 'UGA',
@@ -4289,7 +4289,7 @@
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
   ),
-  'ln' => 
+  'ln' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4304,7 +4304,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ln_CD' => 
+  'ln_CD' =>
   array (
     'country' => 'CD',
     'country3' => 'COD',
@@ -4319,7 +4319,7 @@
     'currency' => 'CDF',
     'currency_symbol' => 'FC',
   ),
-  'ln_CG' => 
+  'ln_CG' =>
   array (
     'country' => 'CG',
     'country3' => 'COG',
@@ -4334,7 +4334,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'lt' => 
+  'lt' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4349,7 +4349,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'lt_LT' => 
+  'lt_LT' =>
   array (
     'country' => 'LT',
     'country3' => 'LTU',
@@ -4364,7 +4364,7 @@
     'currency' => 'LTL',
     'currency_symbol' => 'Lt',
   ),
-  'lu' => 
+  'lu' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4379,7 +4379,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'lu_CD' => 
+  'lu_CD' =>
   array (
     'country' => 'CD',
     'country3' => 'COD',
@@ -4394,7 +4394,7 @@
     'currency' => 'CDF',
     'currency_symbol' => 'FC',
   ),
-  'luo' => 
+  'luo' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4409,7 +4409,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'luo_KE' => 
+  'luo_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -4424,7 +4424,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'luy' => 
+  'luy' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4439,7 +4439,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'luy_KE' => 
+  'luy_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -4454,7 +4454,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'lv' => 
+  'lv' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4469,7 +4469,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'lv_LV' => 
+  'lv_LV' =>
   array (
     'country' => 'LV',
     'country3' => 'LVA',
@@ -4484,7 +4484,7 @@
     'currency' => 'LVL',
     'currency_symbol' => 'Ls',
   ),
-  'mas' => 
+  'mas' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4499,7 +4499,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'mas_KE' => 
+  'mas_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -4514,7 +4514,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'mas_TZ' => 
+  'mas_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -4529,7 +4529,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'mer' => 
+  'mer' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4544,7 +4544,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'mer_KE' => 
+  'mer_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -4559,7 +4559,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'mfe' => 
+  'mfe' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4574,7 +4574,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'mfe_MU' => 
+  'mfe_MU' =>
   array (
     'country' => 'MU',
     'country3' => 'MUS',
@@ -4589,7 +4589,7 @@
     'currency' => 'MUR',
     'currency_symbol' => 'Rs',
   ),
-  'mg' => 
+  'mg' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4604,7 +4604,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'mg_MG' => 
+  'mg_MG' =>
   array (
     'country' => 'MG',
     'country3' => 'MDG',
@@ -4619,7 +4619,7 @@
     'currency' => 'MGA',
     'currency_symbol' => 'Ar',
   ),
-  'mgh' => 
+  'mgh' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4634,7 +4634,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'mgh_MZ' => 
+  'mgh_MZ' =>
   array (
     'country' => 'MZ',
     'country3' => 'MOZ',
@@ -4649,7 +4649,7 @@
     'currency' => 'MZN',
     'currency_symbol' => 'MTn',
   ),
-  'mk' => 
+  'mk' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4664,7 +4664,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'mk_MK' => 
+  'mk_MK' =>
   array (
     'country' => 'MK',
     'country3' => 'MKD',
@@ -4679,7 +4679,7 @@
     'currency' => 'MKD',
     'currency_symbol' => 'ден',
   ),
-  'ml' => 
+  'ml' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4694,7 +4694,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ml_IN' => 
+  'ml_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -4709,7 +4709,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'mr' => 
+  'mr' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4724,7 +4724,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'mr_IN' => 
+  'mr_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -4739,7 +4739,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'ms' => 
+  'ms' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4754,7 +4754,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ms_BN' => 
+  'ms_BN' =>
   array (
     'country' => 'BN',
     'country3' => 'BRN',
@@ -4769,7 +4769,7 @@
     'currency' => 'BND',
     'currency_symbol' => '$',
   ),
-  'ms_MY' => 
+  'ms_MY' =>
   array (
     'country' => 'MY',
     'country3' => 'MYS',
@@ -4784,7 +4784,7 @@
     'currency' => 'MYR',
     'currency_symbol' => 'RM',
   ),
-  'mt' => 
+  'mt' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4799,7 +4799,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'mt_MT' => 
+  'mt_MT' =>
   array (
     'country' => 'MT',
     'country3' => 'MLT',
@@ -4814,7 +4814,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'mua' => 
+  'mua' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4829,7 +4829,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'mua_CM' => 
+  'mua_CM' =>
   array (
     'country' => 'CM',
     'country3' => 'CMR',
@@ -4844,7 +4844,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'my' => 
+  'my' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4859,7 +4859,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'my_MM' => 
+  'my_MM' =>
   array (
     'country' => 'MM',
     'country3' => 'MMR',
@@ -4874,7 +4874,7 @@
     'currency' => 'MMK',
     'currency_symbol' => 'K',
   ),
-  'naq' => 
+  'naq' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4889,7 +4889,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'naq_NA' => 
+  'naq_NA' =>
   array (
     'country' => 'NA',
     'country3' => 'NAM',
@@ -4904,7 +4904,7 @@
     'currency' => 'NAD',
     'currency_symbol' => '$',
   ),
-  'nb' => 
+  'nb' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4919,7 +4919,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'nb_NO' => 
+  'nb_NO' =>
   array (
     'country' => 'NO',
     'country3' => 'NOR',
@@ -4934,7 +4934,7 @@
     'currency' => 'NOK',
     'currency_symbol' => 'kr',
   ),
-  'nd' => 
+  'nd' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4949,7 +4949,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'nd_ZW' => 
+  'nd_ZW' =>
   array (
     'country' => 'ZW',
     'country3' => 'ZWE',
@@ -4964,7 +4964,7 @@
     'currency' => 'USD',
     'currency_symbol' => 'US$',
   ),
-  'ne' => 
+  'ne' =>
   array (
     'country' => '',
     'country3' => '',
@@ -4979,7 +4979,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ne_IN' => 
+  'ne_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -4994,7 +4994,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'ne_NP' => 
+  'ne_NP' =>
   array (
     'country' => 'NP',
     'country3' => 'NPL',
@@ -5009,7 +5009,7 @@
     'currency' => 'NPR',
     'currency_symbol' => 'नेरू',
   ),
-  'nl' => 
+  'nl' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5024,7 +5024,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'nl_AW' => 
+  'nl_AW' =>
   array (
     'country' => 'AW',
     'country3' => 'ABW',
@@ -5039,7 +5039,7 @@
     'currency' => 'AWG',
     'currency_symbol' => 'Afl.',
   ),
-  'nl_BE' => 
+  'nl_BE' =>
   array (
     'country' => 'BE',
     'country3' => 'BEL',
@@ -5054,7 +5054,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'nl_CW' => 
+  'nl_CW' =>
   array (
     'country' => 'CW',
     'country3' => '',
@@ -5069,7 +5069,7 @@
     'currency' => 'ANG',
     'currency_symbol' => 'NAf.',
   ),
-  'nl_NL' => 
+  'nl_NL' =>
   array (
     'country' => 'NL',
     'country3' => 'NLD',
@@ -5084,7 +5084,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'nl_SX' => 
+  'nl_SX' =>
   array (
     'country' => 'SX',
     'country3' => '',
@@ -5099,7 +5099,7 @@
     'currency' => 'ANG',
     'currency_symbol' => 'NAf.',
   ),
-  'nmg' => 
+  'nmg' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5114,7 +5114,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'nmg_CM' => 
+  'nmg_CM' =>
   array (
     'country' => 'CM',
     'country3' => 'CMR',
@@ -5129,7 +5129,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'nn' => 
+  'nn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5144,7 +5144,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'nn_NO' => 
+  'nn_NO' =>
   array (
     'country' => 'NO',
     'country3' => 'NOR',
@@ -5159,7 +5159,7 @@
     'currency' => 'NOK',
     'currency_symbol' => 'kr',
   ),
-  'nus' => 
+  'nus' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5174,7 +5174,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'nus_SD' => 
+  'nus_SD' =>
   array (
     'country' => 'SD',
     'country3' => 'SDN',
@@ -5189,7 +5189,7 @@
     'currency' => 'SDG',
     'currency_symbol' => 'SDG',
   ),
-  'nyn' => 
+  'nyn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5204,7 +5204,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'nyn_UG' => 
+  'nyn_UG' =>
   array (
     'country' => 'UG',
     'country3' => 'UGA',
@@ -5219,7 +5219,7 @@
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
   ),
-  'om' => 
+  'om' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5234,7 +5234,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'om_ET' => 
+  'om_ET' =>
   array (
     'country' => 'ET',
     'country3' => 'ETH',
@@ -5249,7 +5249,7 @@
     'currency' => 'ETB',
     'currency_symbol' => 'Br',
   ),
-  'om_KE' => 
+  'om_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -5264,7 +5264,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'or' => 
+  'or' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5279,7 +5279,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'or_IN' => 
+  'or_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -5294,7 +5294,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'pa' => 
+  'pa' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5309,7 +5309,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'pa_Arab' => 
+  'pa_Arab' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5324,7 +5324,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'pa_Arab_PK' => 
+  'pa_Arab_PK' =>
   array (
     'country' => 'PK',
     'country3' => 'PAK',
@@ -5339,7 +5339,7 @@
     'currency' => 'PKR',
     'currency_symbol' => 'ر',
   ),
-  'pa_Guru' => 
+  'pa_Guru' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5354,7 +5354,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'pa_Guru_IN' => 
+  'pa_Guru_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -5369,7 +5369,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'pl' => 
+  'pl' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5384,7 +5384,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'pl_PL' => 
+  'pl_PL' =>
   array (
     'country' => 'PL',
     'country3' => 'POL',
@@ -5399,7 +5399,7 @@
     'currency' => 'PLN',
     'currency_symbol' => 'zł',
   ),
-  'ps' => 
+  'ps' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5414,7 +5414,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ps_AF' => 
+  'ps_AF' =>
   array (
     'country' => 'AF',
     'country3' => 'AFG',
@@ -5429,7 +5429,7 @@
     'currency' => 'AFN',
     'currency_symbol' => '؋',
   ),
-  'pt' => 
+  'pt' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5444,7 +5444,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'pt_AO' => 
+  'pt_AO' =>
   array (
     'country' => 'AO',
     'country3' => 'AGO',
@@ -5459,7 +5459,7 @@
     'currency' => 'AOA',
     'currency_symbol' => 'Kz',
   ),
-  'pt_BR' => 
+  'pt_BR' =>
   array (
     'country' => 'BR',
     'country3' => 'BRA',
@@ -5474,7 +5474,7 @@
     'currency' => 'BRL',
     'currency_symbol' => 'R$',
   ),
-  'pt_GW' => 
+  'pt_GW' =>
   array (
     'country' => 'GW',
     'country3' => 'GNB',
@@ -5489,7 +5489,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'pt_MZ' => 
+  'pt_MZ' =>
   array (
     'country' => 'MZ',
     'country3' => 'MOZ',
@@ -5504,7 +5504,7 @@
     'currency' => 'MZN',
     'currency_symbol' => 'MTn',
   ),
-  'pt_PT' => 
+  'pt_PT' =>
   array (
     'country' => 'PT',
     'country3' => 'PRT',
@@ -5519,7 +5519,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'pt_ST' => 
+  'pt_ST' =>
   array (
     'country' => 'ST',
     'country3' => 'STP',
@@ -5534,7 +5534,7 @@
     'currency' => 'STD',
     'currency_symbol' => 'Db',
   ),
-  'rm' => 
+  'rm' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5549,7 +5549,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'rm_CH' => 
+  'rm_CH' =>
   array (
     'country' => 'CH',
     'country3' => 'CHE',
@@ -5564,7 +5564,7 @@
     'currency' => 'CHF',
     'currency_symbol' => 'CHF',
   ),
-  'rn' => 
+  'rn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5579,7 +5579,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'rn_BI' => 
+  'rn_BI' =>
   array (
     'country' => 'BI',
     'country3' => 'BDI',
@@ -5594,7 +5594,7 @@
     'currency' => 'BIF',
     'currency_symbol' => 'FBu',
   ),
-  'ro' => 
+  'ro' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5609,7 +5609,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ro_MD' => 
+  'ro_MD' =>
   array (
     'country' => 'MD',
     'country3' => 'MDA',
@@ -5624,7 +5624,7 @@
     'currency' => 'MDL',
     'currency_symbol' => 'MDL',
   ),
-  'ro_RO' => 
+  'ro_RO' =>
   array (
     'country' => 'RO',
     'country3' => 'ROU',
@@ -5639,7 +5639,7 @@
     'currency' => 'RON',
     'currency_symbol' => 'RON',
   ),
-  'rof' => 
+  'rof' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5654,7 +5654,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'rof_TZ' => 
+  'rof_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -5669,7 +5669,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'ru' => 
+  'ru' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5684,7 +5684,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ru_MD' => 
+  'ru_MD' =>
   array (
     'country' => 'MD',
     'country3' => 'MDA',
@@ -5699,7 +5699,7 @@
     'currency' => 'MDL',
     'currency_symbol' => 'MDL',
   ),
-  'ru_RU' => 
+  'ru_RU' =>
   array (
     'country' => 'RU',
     'country3' => 'RUS',
@@ -5714,7 +5714,7 @@
     'currency' => 'RUB',
     'currency_symbol' => 'руб.',
   ),
-  'ru_UA' => 
+  'ru_UA' =>
   array (
     'country' => 'UA',
     'country3' => 'UKR',
@@ -5729,7 +5729,7 @@
     'currency' => 'UAH',
     'currency_symbol' => '₴',
   ),
-  'rw' => 
+  'rw' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5744,7 +5744,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'rw_RW' => 
+  'rw_RW' =>
   array (
     'country' => 'RW',
     'country3' => 'RWA',
@@ -5759,7 +5759,7 @@
     'currency' => 'RWF',
     'currency_symbol' => 'RF',
   ),
-  'rwk' => 
+  'rwk' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5774,7 +5774,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'rwk_TZ' => 
+  'rwk_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -5789,7 +5789,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'saq' => 
+  'saq' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5804,7 +5804,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'saq_KE' => 
+  'saq_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -5819,7 +5819,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'sbp' => 
+  'sbp' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5834,7 +5834,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sbp_TZ' => 
+  'sbp_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -5849,7 +5849,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'seh' => 
+  'seh' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5864,7 +5864,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'seh_MZ' => 
+  'seh_MZ' =>
   array (
     'country' => 'MZ',
     'country3' => 'MOZ',
@@ -5879,7 +5879,7 @@
     'currency' => 'MZN',
     'currency_symbol' => 'MTn',
   ),
-  'ses' => 
+  'ses' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5894,7 +5894,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ses_ML' => 
+  'ses_ML' =>
   array (
     'country' => 'ML',
     'country3' => 'MLI',
@@ -5909,7 +5909,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'sg' => 
+  'sg' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5924,7 +5924,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sg_CF' => 
+  'sg_CF' =>
   array (
     'country' => 'CF',
     'country3' => 'CAF',
@@ -5939,7 +5939,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'shi' => 
+  'shi' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5954,7 +5954,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'shi_Latn' => 
+  'shi_Latn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5969,7 +5969,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'shi_Latn_MA' => 
+  'shi_Latn_MA' =>
   array (
     'country' => 'MA',
     'country3' => 'MAR',
@@ -5984,7 +5984,7 @@
     'currency' => 'MAD',
     'currency_symbol' => 'MAD',
   ),
-  'shi_Tfng' => 
+  'shi_Tfng' =>
   array (
     'country' => '',
     'country3' => '',
@@ -5999,7 +5999,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'shi_Tfng_MA' => 
+  'shi_Tfng_MA' =>
   array (
     'country' => 'MA',
     'country3' => 'MAR',
@@ -6014,7 +6014,7 @@
     'currency' => 'MAD',
     'currency_symbol' => 'MAD',
   ),
-  'si' => 
+  'si' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6029,7 +6029,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'si_LK' => 
+  'si_LK' =>
   array (
     'country' => 'LK',
     'country3' => 'LKA',
@@ -6044,7 +6044,7 @@
     'currency' => 'LKR',
     'currency_symbol' => 'රු.',
   ),
-  'sk' => 
+  'sk' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6059,7 +6059,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sk_SK' => 
+  'sk_SK' =>
   array (
     'country' => 'SK',
     'country3' => 'SVK',
@@ -6074,7 +6074,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'sl' => 
+  'sl' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6089,7 +6089,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sl_SI' => 
+  'sl_SI' =>
   array (
     'country' => 'SI',
     'country3' => 'SVN',
@@ -6104,7 +6104,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'sn' => 
+  'sn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6119,7 +6119,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sn_ZW' => 
+  'sn_ZW' =>
   array (
     'country' => 'ZW',
     'country3' => 'ZWE',
@@ -6134,7 +6134,7 @@
     'currency' => 'USD',
     'currency_symbol' => 'US$',
   ),
-  'so' => 
+  'so' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6149,7 +6149,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'so_DJ' => 
+  'so_DJ' =>
   array (
     'country' => 'DJ',
     'country3' => 'DJI',
@@ -6164,7 +6164,7 @@
     'currency' => 'DJF',
     'currency_symbol' => 'Fdj',
   ),
-  'so_ET' => 
+  'so_ET' =>
   array (
     'country' => 'ET',
     'country3' => 'ETH',
@@ -6179,7 +6179,7 @@
     'currency' => 'ETB',
     'currency_symbol' => 'Br',
   ),
-  'so_KE' => 
+  'so_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -6194,7 +6194,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'so_SO' => 
+  'so_SO' =>
   array (
     'country' => 'SO',
     'country3' => 'SOM',
@@ -6209,7 +6209,7 @@
     'currency' => 'SOS',
     'currency_symbol' => 'S',
   ),
-  'sq' => 
+  'sq' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6224,7 +6224,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sq_AL' => 
+  'sq_AL' =>
   array (
     'country' => 'AL',
     'country3' => 'ALB',
@@ -6239,7 +6239,7 @@
     'currency' => 'ALL',
     'currency_symbol' => 'Lek',
   ),
-  'sr' => 
+  'sr' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6254,7 +6254,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sr_Cyrl' => 
+  'sr_Cyrl' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6269,7 +6269,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sr_Cyrl_BA' => 
+  'sr_Cyrl_BA' =>
   array (
     'country' => 'BA',
     'country3' => 'BIH',
@@ -6284,7 +6284,7 @@
     'currency' => 'BAM',
     'currency_symbol' => 'КМ',
   ),
-  'sr_Cyrl_ME' => 
+  'sr_Cyrl_ME' =>
   array (
     'country' => 'ME',
     'country3' => 'MNE',
@@ -6299,7 +6299,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'sr_Cyrl_RS' => 
+  'sr_Cyrl_RS' =>
   array (
     'country' => 'RS',
     'country3' => 'SRB',
@@ -6314,7 +6314,7 @@
     'currency' => 'RSD',
     'currency_symbol' => 'дин.',
   ),
-  'sr_Latn' => 
+  'sr_Latn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6329,7 +6329,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sr_Latn_BA' => 
+  'sr_Latn_BA' =>
   array (
     'country' => 'BA',
     'country3' => 'BIH',
@@ -6344,7 +6344,7 @@
     'currency' => 'BAM',
     'currency_symbol' => 'KM',
   ),
-  'sr_Latn_ME' => 
+  'sr_Latn_ME' =>
   array (
     'country' => 'ME',
     'country3' => 'MNE',
@@ -6359,7 +6359,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'sr_Latn_RS' => 
+  'sr_Latn_RS' =>
   array (
     'country' => 'RS',
     'country3' => 'SRB',
@@ -6374,7 +6374,7 @@
     'currency' => 'RSD',
     'currency_symbol' => 'din.',
   ),
-  'sv' => 
+  'sv' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6389,7 +6389,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sv_FI' => 
+  'sv_FI' =>
   array (
     'country' => 'FI',
     'country3' => 'FIN',
@@ -6404,7 +6404,7 @@
     'currency' => 'EUR',
     'currency_symbol' => '€',
   ),
-  'sv_SE' => 
+  'sv_SE' =>
   array (
     'country' => 'SE',
     'country3' => 'SWE',
@@ -6419,7 +6419,7 @@
     'currency' => 'SEK',
     'currency_symbol' => 'kr',
   ),
-  'sw' => 
+  'sw' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6434,7 +6434,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'sw_KE' => 
+  'sw_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -6449,7 +6449,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'sw_TZ' => 
+  'sw_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -6464,7 +6464,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'swc' => 
+  'swc' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6479,7 +6479,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'swc_CD' => 
+  'swc_CD' =>
   array (
     'country' => 'CD',
     'country3' => 'COD',
@@ -6494,7 +6494,7 @@
     'currency' => 'CDF',
     'currency_symbol' => 'FC',
   ),
-  'ta' => 
+  'ta' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6509,7 +6509,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ta_IN' => 
+  'ta_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -6524,7 +6524,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'ta_LK' => 
+  'ta_LK' =>
   array (
     'country' => 'LK',
     'country3' => 'LKA',
@@ -6539,7 +6539,7 @@
     'currency' => 'LKR',
     'currency_symbol' => 'Rs.',
   ),
-  'te' => 
+  'te' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6554,7 +6554,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'te_IN' => 
+  'te_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -6569,7 +6569,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'teo' => 
+  'teo' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6584,7 +6584,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'teo_KE' => 
+  'teo_KE' =>
   array (
     'country' => 'KE',
     'country3' => 'KEN',
@@ -6599,7 +6599,7 @@
     'currency' => 'KES',
     'currency_symbol' => 'Ksh',
   ),
-  'teo_UG' => 
+  'teo_UG' =>
   array (
     'country' => 'UG',
     'country3' => 'UGA',
@@ -6614,7 +6614,7 @@
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
   ),
-  'th' => 
+  'th' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6629,7 +6629,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'th_TH' => 
+  'th_TH' =>
   array (
     'country' => 'TH',
     'country3' => 'THA',
@@ -6644,7 +6644,7 @@
     'currency' => 'THB',
     'currency_symbol' => '฿',
   ),
-  'ti' => 
+  'ti' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6659,7 +6659,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ti_ER' => 
+  'ti_ER' =>
   array (
     'country' => 'ER',
     'country3' => 'ERI',
@@ -6674,7 +6674,7 @@
     'currency' => 'ERN',
     'currency_symbol' => 'Nfk',
   ),
-  'ti_ET' => 
+  'ti_ET' =>
   array (
     'country' => 'ET',
     'country3' => 'ETH',
@@ -6689,7 +6689,7 @@
     'currency' => 'ETB',
     'currency_symbol' => 'Br',
   ),
-  'to' => 
+  'to' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6704,7 +6704,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'to_TO' => 
+  'to_TO' =>
   array (
     'country' => 'TO',
     'country3' => 'TON',
@@ -6719,7 +6719,7 @@
     'currency' => 'TOP',
     'currency_symbol' => 'T$',
   ),
-  'tr' => 
+  'tr' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6734,7 +6734,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'tr_TR' => 
+  'tr_TR' =>
   array (
     'country' => 'TR',
     'country3' => 'TUR',
@@ -6749,7 +6749,7 @@
     'currency' => 'TRY',
     'currency_symbol' => '₺',
   ),
-  'twq' => 
+  'twq' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6764,7 +6764,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'twq_NE' => 
+  'twq_NE' =>
   array (
     'country' => 'NE',
     'country3' => 'NER',
@@ -6779,7 +6779,7 @@
     'currency' => 'XOF',
     'currency_symbol' => 'CFA',
   ),
-  'tzm' => 
+  'tzm' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6794,7 +6794,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'tzm_Latn' => 
+  'tzm_Latn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6809,7 +6809,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'tzm_Latn_MA' => 
+  'tzm_Latn_MA' =>
   array (
     'country' => 'MA',
     'country3' => 'MAR',
@@ -6824,7 +6824,7 @@
     'currency' => 'MAD',
     'currency_symbol' => 'MAD',
   ),
-  'uk' => 
+  'uk' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6839,7 +6839,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'uk_UA' => 
+  'uk_UA' =>
   array (
     'country' => 'UA',
     'country3' => 'UKR',
@@ -6854,7 +6854,7 @@
     'currency' => 'UAH',
     'currency_symbol' => '₴',
   ),
-  'ur' => 
+  'ur' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6869,7 +6869,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'ur_IN' => 
+  'ur_IN' =>
   array (
     'country' => 'IN',
     'country3' => 'IND',
@@ -6884,7 +6884,7 @@
     'currency' => 'INR',
     'currency_symbol' => '₹',
   ),
-  'ur_PK' => 
+  'ur_PK' =>
   array (
     'country' => 'PK',
     'country3' => 'PAK',
@@ -6899,7 +6899,7 @@
     'currency' => 'PKR',
     'currency_symbol' => 'Rs',
   ),
-  'uz' => 
+  'uz' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6914,7 +6914,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'uz_Arab' => 
+  'uz_Arab' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6929,7 +6929,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'uz_Arab_AF' => 
+  'uz_Arab_AF' =>
   array (
     'country' => 'AF',
     'country3' => 'AFG',
@@ -6944,7 +6944,7 @@
     'currency' => 'AFN',
     'currency_symbol' => '؋',
   ),
-  'uz_Cyrl' => 
+  'uz_Cyrl' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6959,7 +6959,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'uz_Cyrl_UZ' => 
+  'uz_Cyrl_UZ' =>
   array (
     'country' => 'UZ',
     'country3' => 'UZB',
@@ -6974,7 +6974,7 @@
     'currency' => 'UZS',
     'currency_symbol' => 'UZS',
   ),
-  'uz_Latn' => 
+  'uz_Latn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -6989,7 +6989,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'uz_Latn_UZ' => 
+  'uz_Latn_UZ' =>
   array (
     'country' => 'UZ',
     'country3' => 'UZB',
@@ -7004,7 +7004,7 @@
     'currency' => 'UZS',
     'currency_symbol' => 'UZS',
   ),
-  'vai' => 
+  'vai' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7019,7 +7019,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'vai_Latn' => 
+  'vai_Latn' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7034,7 +7034,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'vai_Latn_LR' => 
+  'vai_Latn_LR' =>
   array (
     'country' => 'LR',
     'country3' => 'LBR',
@@ -7049,7 +7049,7 @@
     'currency' => 'LRD',
     'currency_symbol' => '$',
   ),
-  'vai_Vaii' => 
+  'vai_Vaii' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7064,7 +7064,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'vai_Vaii_LR' => 
+  'vai_Vaii_LR' =>
   array (
     'country' => 'LR',
     'country3' => 'LBR',
@@ -7079,7 +7079,7 @@
     'currency' => 'LRD',
     'currency_symbol' => '$',
   ),
-  'vi' => 
+  'vi' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7094,7 +7094,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'vi_VN' => 
+  'vi_VN' =>
   array (
     'country' => 'VN',
     'country3' => 'VNM',
@@ -7109,7 +7109,7 @@
     'currency' => 'VND',
     'currency_symbol' => '₫',
   ),
-  'vun' => 
+  'vun' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7124,7 +7124,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'vun_TZ' => 
+  'vun_TZ' =>
   array (
     'country' => 'TZ',
     'country3' => 'TZA',
@@ -7139,7 +7139,7 @@
     'currency' => 'TZS',
     'currency_symbol' => 'TSh',
   ),
-  'xog' => 
+  'xog' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7154,7 +7154,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'xog_UG' => 
+  'xog_UG' =>
   array (
     'country' => 'UG',
     'country3' => 'UGA',
@@ -7169,7 +7169,7 @@
     'currency' => 'UGX',
     'currency_symbol' => 'USh',
   ),
-  'yav' => 
+  'yav' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7184,7 +7184,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'yav_CM' => 
+  'yav_CM' =>
   array (
     'country' => 'CM',
     'country3' => 'CMR',
@@ -7199,7 +7199,7 @@
     'currency' => 'XAF',
     'currency_symbol' => 'FCFA',
   ),
-  'yo' => 
+  'yo' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7214,7 +7214,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'yo_NG' => 
+  'yo_NG' =>
   array (
     'country' => 'NG',
     'country3' => 'NGA',
@@ -7229,7 +7229,7 @@
     'currency' => 'NGN',
     'currency_symbol' => '₦',
   ),
-  'zh' => 
+  'zh' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7244,7 +7244,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'zh_Hans' => 
+  'zh_Hans' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7259,7 +7259,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'zh_Hans_CN' => 
+  'zh_Hans_CN' =>
   array (
     'country' => 'CN',
     'country3' => 'CHN',
@@ -7274,7 +7274,7 @@
     'currency' => 'CNY',
     'currency_symbol' => '￥',
   ),
-  'zh_Hans_HK' => 
+  'zh_Hans_HK' =>
   array (
     'country' => 'HK',
     'country3' => 'HKG',
@@ -7289,7 +7289,7 @@
     'currency' => 'HKD',
     'currency_symbol' => '$',
   ),
-  'zh_Hans_MO' => 
+  'zh_Hans_MO' =>
   array (
     'country' => 'MO',
     'country3' => 'MAC',
@@ -7304,7 +7304,7 @@
     'currency' => 'MOP',
     'currency_symbol' => 'MOP$',
   ),
-  'zh_Hans_SG' => 
+  'zh_Hans_SG' =>
   array (
     'country' => 'SG',
     'country3' => 'SGP',
@@ -7319,7 +7319,7 @@
     'currency' => 'SGD',
     'currency_symbol' => '$',
   ),
-  'zh_Hant' => 
+  'zh_Hant' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7334,7 +7334,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'zh_Hant_HK' => 
+  'zh_Hant_HK' =>
   array (
     'country' => 'HK',
     'country3' => 'HKG',
@@ -7349,7 +7349,7 @@
     'currency' => 'HKD',
     'currency_symbol' => '$',
   ),
-  'zh_Hant_MO' => 
+  'zh_Hant_MO' =>
   array (
     'country' => 'MO',
     'country3' => 'MAC',
@@ -7364,7 +7364,7 @@
     'currency' => 'MOP',
     'currency_symbol' => 'MOP$',
   ),
-  'zh_Hant_TW' => 
+  'zh_Hant_TW' =>
   array (
     'country' => 'TW',
     'country3' => 'TWN',
@@ -7379,7 +7379,7 @@
     'currency' => 'TWD',
     'currency_symbol' => 'NT$',
   ),
-  'zu' => 
+  'zu' =>
   array (
     'country' => '',
     'country3' => '',
@@ -7394,7 +7394,7 @@
     'currency' => '',
     'currency_symbol' => '¤',
   ),
-  'zu_ZA' => 
+  'zu_ZA' =>
   array (
     'country' => 'ZA',
     'country3' => 'ZAF',

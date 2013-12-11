@@ -32,7 +32,7 @@ class Locale
      */
     public static function getLocaleNames()
     {
-        return array_map(function($value) {
+        return array_map(function ($value) {
                 return $value['name'];
             }, self::getAvailableLocales()
         );
@@ -45,7 +45,7 @@ class Locale
      */
     public static function getLocalesWithRegions()
     {
-        return array_filter(Locale::getAvailableLocales(), function($value) {
+        return array_filter(Locale::getAvailableLocales(), function ($value) {
                 return $value['country'] !== '';
             }
         );
@@ -58,7 +58,7 @@ class Locale
      */
     public static function getLocalesWithRegionNames()
     {
-        return array_map(function($value) {
+        return array_map(function ($value) {
                 return $value['name'];
             },
             self::getLocalesWithRegions()
@@ -72,7 +72,7 @@ class Locale
      */
     public static function getLanguages()
     {
-        return array_filter(Locale::getAvailableLocales(), function($value) {
+        return array_filter(Locale::getAvailableLocales(), function ($value) {
                 return $value['country'] === '';
             }
         );
@@ -85,7 +85,7 @@ class Locale
      */
     public static function getLanguageNames()
     {
-        return array_map(function($value) {
+        return array_map(function ($value) {
                 return $value['name'];
             },
             self::getLanguages()
